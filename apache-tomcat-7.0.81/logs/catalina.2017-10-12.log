@@ -1,0 +1,1082 @@
+Oct 12, 2017 11:14:56 AM org.apache.catalina.core.StandardServer await
+INFO: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+Oct 12, 2017 11:14:56 AM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+Oct 12, 2017 11:14:57 AM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-bio-8009"]
+Oct 12, 2017 11:14:57 AM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Oct 12, 2017 11:14:57 AM org.apache.catalina.loader.WebappClassLoaderBase clearReferencesThreads
+SEVERE: The web application [/roboweb] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak.
+Oct 12, 2017 11:14:57 AM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+Oct 12, 2017 11:14:57 AM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-bio-8009"]
+Oct 12, 2017 11:14:57 AM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+Oct 12, 2017 11:14:57 AM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-bio-8009"]
+Oct 12, 2017 11:14:57 AM org.apache.catalina.startup.Catalina initDirs
+SEVERE: Cannot find specified temporary folder at /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/temp
+Oct 12, 2017 11:14:57 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.81
+Oct 12, 2017 11:14:57 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Aug 11 2017 10:21:27 UTC
+Oct 12, 2017 11:14:57 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.81.0
+Oct 12, 2017 11:14:57 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Linux
+Oct 12, 2017 11:14:57 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            3.10.0-693.2.2.el7.x86_64
+Oct 12, 2017 11:14:57 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+Oct 12, 2017 11:14:57 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.144-0.b01.el7_4.x86_64/jre
+Oct 12, 2017 11:14:57 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.8.0_144-b01
+Oct 12, 2017 11:14:57 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Oct 12, 2017 11:14:57 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81
+Oct 12, 2017 11:14:57 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81
+Oct 12, 2017 11:14:57 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/conf/logging.properties
+Oct 12, 2017 11:14:57 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Oct 12, 2017 11:14:57 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+Oct 12, 2017 11:14:57 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/endorsed
+Oct 12, 2017 11:14:57 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81
+Oct 12, 2017 11:14:57 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81
+Oct 12, 2017 11:14:57 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/temp
+Oct 12, 2017 11:14:57 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Oct 12, 2017 11:14:57 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Oct 12, 2017 11:14:57 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Oct 12, 2017 11:14:57 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 511 ms
+Oct 12, 2017 11:14:57 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Oct 12, 2017 11:14:57 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.81
+Oct 12, 2017 11:14:57 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/roboweb.war
+Oct 12, 2017 11:14:57 AM org.apache.catalina.startup.SetContextPropertiesRule begin
+WARNING: [SetContextPropertiesRule]{Context} Setting property 'debug' to '1' did not find a matching property.
+Oct 12, 2017 11:14:57 AM org.apache.catalina.loader.WebappClassLoaderBase validateJarFile
+INFO: validateJarFile(/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/roboweb/WEB-INF/lib/javax.servlet-3.0.jar) - jar not loaded. See Servlet Spec 3.0, section 10.7.2. Offending class: javax/servlet/Servlet.class
+Oct 12, 2017 11:14:58 AM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: urn:com:sun:jersey:api:view is already defined
+Oct 12, 2017 11:14:58 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Oct 12, 2017 11:14:58 AM com.sun.jersey.api.core.PackagesResourceConfig init
+INFO: Scanning for root resource and provider classes in the packages:
+  ServerService
+Oct 12, 2017 11:14:58 AM com.sun.jersey.api.core.ScanningResourceConfig logClasses
+INFO: Root resource classes found:
+  class ServerService.RestServerService
+Oct 12, 2017 11:14:58 AM com.sun.jersey.api.core.ScanningResourceConfig init
+INFO: No provider classes found.
+Oct 12, 2017 11:14:58 AM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.19 02/11/2015 05:39 AM'
+Oct 12, 2017 11:14:59 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/roboweb.war has finished in 1,368 ms
+Oct 12, 2017 11:14:59 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/ROOT
+Oct 12, 2017 11:14:59 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Oct 12, 2017 11:14:59 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/ROOT has finished in 64 ms
+Oct 12, 2017 11:14:59 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/docs
+Oct 12, 2017 11:14:59 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Oct 12, 2017 11:14:59 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/docs has finished in 61 ms
+Oct 12, 2017 11:14:59 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/examples
+Oct 12, 2017 11:14:59 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Oct 12, 2017 11:14:59 AM org.apache.catalina.core.StandardContext startInternal
+SEVERE: One or more listeners failed to start. Full details will be found in the appropriate container log file
+Oct 12, 2017 11:14:59 AM org.apache.catalina.core.StandardContext startInternal
+SEVERE: Context [/examples] startup failed due to previous errors
+Oct 12, 2017 11:14:59 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/examples has finished in 184 ms
+Oct 12, 2017 11:14:59 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/host-manager
+Oct 12, 2017 11:14:59 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Oct 12, 2017 11:14:59 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/host-manager has finished in 66 ms
+Oct 12, 2017 11:14:59 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/manager
+Oct 12, 2017 11:14:59 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Oct 12, 2017 11:14:59 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/manager has finished in 93 ms
+Oct 12, 2017 11:14:59 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Oct 12, 2017 11:14:59 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Oct 12, 2017 11:14:59 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1903 ms
+Oct 12, 2017 11:20:54 AM org.apache.catalina.core.StandardServer await
+INFO: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+Oct 12, 2017 11:20:54 AM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+Oct 12, 2017 11:20:54 AM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-bio-8009"]
+Oct 12, 2017 11:20:54 AM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Oct 12, 2017 11:20:54 AM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+Oct 12, 2017 11:20:54 AM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-bio-8009"]
+Oct 12, 2017 11:20:54 AM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+Oct 12, 2017 11:20:54 AM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-bio-8009"]
+Oct 12, 2017 11:20:54 AM org.apache.catalina.startup.Catalina initDirs
+SEVERE: Cannot find specified temporary folder at /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/temp
+Oct 12, 2017 11:20:55 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.81
+Oct 12, 2017 11:20:55 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Aug 11 2017 10:21:27 UTC
+Oct 12, 2017 11:20:55 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.81.0
+Oct 12, 2017 11:20:55 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Linux
+Oct 12, 2017 11:20:55 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            3.10.0-693.2.2.el7.x86_64
+Oct 12, 2017 11:20:55 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+Oct 12, 2017 11:20:55 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.144-0.b01.el7_4.x86_64/jre
+Oct 12, 2017 11:20:55 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.8.0_144-b01
+Oct 12, 2017 11:20:55 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Oct 12, 2017 11:20:55 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81
+Oct 12, 2017 11:20:55 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81
+Oct 12, 2017 11:20:55 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/conf/logging.properties
+Oct 12, 2017 11:20:55 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Oct 12, 2017 11:20:55 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+Oct 12, 2017 11:20:55 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/endorsed
+Oct 12, 2017 11:20:55 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81
+Oct 12, 2017 11:20:55 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81
+Oct 12, 2017 11:20:55 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/temp
+Oct 12, 2017 11:20:55 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Oct 12, 2017 11:20:55 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Oct 12, 2017 11:20:55 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Oct 12, 2017 11:20:55 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 439 ms
+Oct 12, 2017 11:20:55 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Oct 12, 2017 11:20:55 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.81
+Oct 12, 2017 11:20:55 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/roboweb.war
+Oct 12, 2017 11:20:55 AM org.apache.catalina.startup.SetContextPropertiesRule begin
+WARNING: [SetContextPropertiesRule]{Context} Setting property 'debug' to '1' did not find a matching property.
+Oct 12, 2017 11:20:55 AM org.apache.catalina.loader.WebappClassLoaderBase validateJarFile
+INFO: validateJarFile(/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/roboweb/WEB-INF/lib/javax.servlet-3.0.jar) - jar not loaded. See Servlet Spec 3.0, section 10.7.2. Offending class: javax/servlet/Servlet.class
+Oct 12, 2017 11:20:56 AM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: urn:com:sun:jersey:api:view is already defined
+Oct 12, 2017 11:20:56 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Oct 12, 2017 11:20:56 AM com.sun.jersey.api.core.PackagesResourceConfig init
+INFO: Scanning for root resource and provider classes in the packages:
+  ServerService
+Oct 12, 2017 11:20:56 AM com.sun.jersey.api.core.ScanningResourceConfig logClasses
+INFO: Root resource classes found:
+  class ServerService.RestServerService
+Oct 12, 2017 11:20:56 AM com.sun.jersey.api.core.ScanningResourceConfig init
+INFO: No provider classes found.
+Oct 12, 2017 11:20:56 AM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.19 02/11/2015 05:39 AM'
+Oct 12, 2017 11:20:56 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/roboweb.war has finished in 1,528 ms
+Oct 12, 2017 11:20:56 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/ROOT
+Oct 12, 2017 11:20:57 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Oct 12, 2017 11:20:57 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/ROOT has finished in 141 ms
+Oct 12, 2017 11:20:57 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/docs
+Oct 12, 2017 11:20:57 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Oct 12, 2017 11:20:57 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/docs has finished in 84 ms
+Oct 12, 2017 11:20:57 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/examples
+Oct 12, 2017 11:20:57 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Oct 12, 2017 11:20:57 AM org.apache.catalina.core.StandardContext startInternal
+SEVERE: One or more listeners failed to start. Full details will be found in the appropriate container log file
+Oct 12, 2017 11:20:57 AM org.apache.catalina.core.StandardContext startInternal
+SEVERE: Context [/examples] startup failed due to previous errors
+Oct 12, 2017 11:20:57 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/examples has finished in 207 ms
+Oct 12, 2017 11:20:57 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/host-manager
+Oct 12, 2017 11:20:57 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Oct 12, 2017 11:20:57 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/host-manager has finished in 94 ms
+Oct 12, 2017 11:20:57 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/manager
+Oct 12, 2017 11:20:57 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Oct 12, 2017 11:20:57 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/manager has finished in 88 ms
+Oct 12, 2017 11:20:57 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Oct 12, 2017 11:20:57 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Oct 12, 2017 11:20:57 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 2199 ms
+Oct 12, 2017 11:21:07 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/roboweb]
+Oct 12, 2017 11:21:07 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/roboweb.war
+Oct 12, 2017 11:21:07 AM org.apache.catalina.startup.SetContextPropertiesRule begin
+WARNING: [SetContextPropertiesRule]{Context} Setting property 'debug' to '1' did not find a matching property.
+Oct 12, 2017 11:21:08 AM org.apache.catalina.loader.WebappClassLoaderBase validateJarFile
+INFO: validateJarFile(/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/roboweb/WEB-INF/lib/javax.servlet-3.0.jar) - jar not loaded. See Servlet Spec 3.0, section 10.7.2. Offending class: javax/servlet/Servlet.class
+Oct 12, 2017 11:21:08 AM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: urn:com:sun:jersey:api:view is already defined
+Oct 12, 2017 11:21:08 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Oct 12, 2017 11:21:08 AM com.sun.jersey.api.core.PackagesResourceConfig init
+INFO: Scanning for root resource and provider classes in the packages:
+  ServerService
+Oct 12, 2017 11:21:08 AM com.sun.jersey.api.core.ScanningResourceConfig logClasses
+INFO: Root resource classes found:
+  class ServerService.RestServerService
+Oct 12, 2017 11:21:08 AM com.sun.jersey.api.core.ScanningResourceConfig init
+INFO: No provider classes found.
+Oct 12, 2017 11:21:08 AM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.19 02/11/2015 05:39 AM'
+Oct 12, 2017 11:21:08 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/roboweb.war has finished in 1,435 ms
+Oct 12, 2017 12:25:29 PM org.apache.catalina.core.StandardServer await
+INFO: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+Oct 12, 2017 12:25:29 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+Oct 12, 2017 12:25:29 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-bio-8009"]
+Oct 12, 2017 12:25:29 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Oct 12, 2017 12:25:29 PM org.apache.catalina.loader.WebappClassLoaderBase clearReferencesThreads
+SEVERE: The web application [/roboweb] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak.
+Oct 12, 2017 12:25:29 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+Oct 12, 2017 12:25:29 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-bio-8009"]
+Oct 12, 2017 12:25:29 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+Oct 12, 2017 12:25:29 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-bio-8009"]
+Oct 12, 2017 12:25:29 PM org.apache.catalina.startup.Catalina initDirs
+SEVERE: Cannot find specified temporary folder at /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/temp
+Oct 12, 2017 12:25:29 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.81
+Oct 12, 2017 12:25:29 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Aug 11 2017 10:21:27 UTC
+Oct 12, 2017 12:25:29 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.81.0
+Oct 12, 2017 12:25:29 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Linux
+Oct 12, 2017 12:25:29 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            3.10.0-693.2.2.el7.x86_64
+Oct 12, 2017 12:25:29 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+Oct 12, 2017 12:25:29 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.144-0.b01.el7_4.x86_64/jre
+Oct 12, 2017 12:25:29 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.8.0_144-b01
+Oct 12, 2017 12:25:29 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Oct 12, 2017 12:25:29 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81
+Oct 12, 2017 12:25:29 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81
+Oct 12, 2017 12:25:29 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/conf/logging.properties
+Oct 12, 2017 12:25:29 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Oct 12, 2017 12:25:29 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+Oct 12, 2017 12:25:29 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/endorsed
+Oct 12, 2017 12:25:29 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81
+Oct 12, 2017 12:25:29 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81
+Oct 12, 2017 12:25:29 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/temp
+Oct 12, 2017 12:25:29 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Oct 12, 2017 12:25:29 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Oct 12, 2017 12:25:29 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Oct 12, 2017 12:25:29 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 410 ms
+Oct 12, 2017 12:25:29 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Oct 12, 2017 12:25:29 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.81
+Oct 12, 2017 12:25:29 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/roboweb.war
+Oct 12, 2017 12:25:29 PM org.apache.catalina.startup.SetContextPropertiesRule begin
+WARNING: [SetContextPropertiesRule]{Context} Setting property 'debug' to '1' did not find a matching property.
+Oct 12, 2017 12:25:29 PM org.apache.catalina.loader.WebappClassLoaderBase validateJarFile
+INFO: validateJarFile(/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/roboweb/WEB-INF/lib/javax.servlet-3.0.jar) - jar not loaded. See Servlet Spec 3.0, section 10.7.2. Offending class: javax/servlet/Servlet.class
+Oct 12, 2017 12:25:30 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: urn:com:sun:jersey:api:view is already defined
+Oct 12, 2017 12:25:30 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Oct 12, 2017 12:25:30 PM com.sun.jersey.api.core.PackagesResourceConfig init
+INFO: Scanning for root resource and provider classes in the packages:
+  ServerService
+Oct 12, 2017 12:25:30 PM com.sun.jersey.api.core.ScanningResourceConfig logClasses
+INFO: Root resource classes found:
+  class ServerService.RestServerService
+Oct 12, 2017 12:25:30 PM com.sun.jersey.api.core.ScanningResourceConfig init
+INFO: No provider classes found.
+Oct 12, 2017 12:25:30 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.19 02/11/2015 05:39 AM'
+Oct 12, 2017 12:25:31 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/roboweb.war has finished in 1,385 ms
+Oct 12, 2017 12:25:31 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/ROOT
+Oct 12, 2017 12:25:31 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Oct 12, 2017 12:25:31 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/ROOT has finished in 78 ms
+Oct 12, 2017 12:25:31 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/docs
+Oct 12, 2017 12:25:31 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Oct 12, 2017 12:25:31 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/docs has finished in 81 ms
+Oct 12, 2017 12:25:31 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/examples
+Oct 12, 2017 12:25:31 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Oct 12, 2017 12:25:31 PM org.apache.catalina.core.StandardContext startInternal
+SEVERE: One or more listeners failed to start. Full details will be found in the appropriate container log file
+Oct 12, 2017 12:25:31 PM org.apache.catalina.core.StandardContext startInternal
+SEVERE: Context [/examples] startup failed due to previous errors
+Oct 12, 2017 12:25:31 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/examples has finished in 151 ms
+Oct 12, 2017 12:25:31 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/host-manager
+Oct 12, 2017 12:25:31 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Oct 12, 2017 12:25:31 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/host-manager has finished in 80 ms
+Oct 12, 2017 12:25:31 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/manager
+Oct 12, 2017 12:25:31 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Oct 12, 2017 12:25:31 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/manager has finished in 77 ms
+Oct 12, 2017 12:25:31 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Oct 12, 2017 12:25:31 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Oct 12, 2017 12:25:31 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1913 ms
+Oct 12, 2017 12:25:41 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/roboweb]
+Oct 12, 2017 12:25:41 PM org.apache.catalina.loader.WebappClassLoaderBase clearReferencesThreads
+SEVERE: The web application [/roboweb] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak.
+Oct 12, 2017 12:25:41 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/roboweb.war
+Oct 12, 2017 12:25:41 PM org.apache.catalina.startup.SetContextPropertiesRule begin
+WARNING: [SetContextPropertiesRule]{Context} Setting property 'debug' to '1' did not find a matching property.
+Oct 12, 2017 12:25:42 PM org.apache.catalina.loader.WebappClassLoaderBase validateJarFile
+INFO: validateJarFile(/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/roboweb/WEB-INF/lib/javax.servlet-3.0.jar) - jar not loaded. See Servlet Spec 3.0, section 10.7.2. Offending class: javax/servlet/Servlet.class
+Oct 12, 2017 12:25:42 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: urn:com:sun:jersey:api:view is already defined
+Oct 12, 2017 12:25:42 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Oct 12, 2017 12:25:42 PM com.sun.jersey.api.core.PackagesResourceConfig init
+INFO: Scanning for root resource and provider classes in the packages:
+  ServerService
+Oct 12, 2017 12:25:42 PM com.sun.jersey.api.core.ScanningResourceConfig logClasses
+INFO: Root resource classes found:
+  class ServerService.RestServerService
+Oct 12, 2017 12:25:42 PM com.sun.jersey.api.core.ScanningResourceConfig init
+INFO: No provider classes found.
+Oct 12, 2017 12:25:42 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.19 02/11/2015 05:39 AM'
+Oct 12, 2017 12:25:42 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/roboweb.war has finished in 1,316 ms
+Oct 12, 2017 12:33:08 PM org.apache.catalina.core.StandardServer await
+INFO: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+Oct 12, 2017 12:33:08 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+Oct 12, 2017 12:33:08 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-bio-8009"]
+Oct 12, 2017 12:33:08 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Oct 12, 2017 12:33:08 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+Oct 12, 2017 12:33:08 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-bio-8009"]
+Oct 12, 2017 12:33:08 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+Oct 12, 2017 12:33:08 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-bio-8009"]
+Oct 12, 2017 12:33:08 PM org.apache.catalina.startup.Catalina initDirs
+SEVERE: Cannot find specified temporary folder at /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/temp
+Oct 12, 2017 12:33:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.81
+Oct 12, 2017 12:33:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Aug 11 2017 10:21:27 UTC
+Oct 12, 2017 12:33:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.81.0
+Oct 12, 2017 12:33:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Linux
+Oct 12, 2017 12:33:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            3.10.0-693.2.2.el7.x86_64
+Oct 12, 2017 12:33:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+Oct 12, 2017 12:33:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.144-0.b01.el7_4.x86_64/jre
+Oct 12, 2017 12:33:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.8.0_144-b01
+Oct 12, 2017 12:33:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Oct 12, 2017 12:33:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81
+Oct 12, 2017 12:33:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81
+Oct 12, 2017 12:33:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/conf/logging.properties
+Oct 12, 2017 12:33:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Oct 12, 2017 12:33:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+Oct 12, 2017 12:33:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/endorsed
+Oct 12, 2017 12:33:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81
+Oct 12, 2017 12:33:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81
+Oct 12, 2017 12:33:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/temp
+Oct 12, 2017 12:33:09 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Oct 12, 2017 12:33:09 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Oct 12, 2017 12:33:09 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Oct 12, 2017 12:33:09 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 422 ms
+Oct 12, 2017 12:33:09 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Oct 12, 2017 12:33:09 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.81
+Oct 12, 2017 12:33:09 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/roboweb.war
+Oct 12, 2017 12:33:09 PM org.apache.catalina.startup.SetContextPropertiesRule begin
+WARNING: [SetContextPropertiesRule]{Context} Setting property 'debug' to '1' did not find a matching property.
+Oct 12, 2017 12:33:09 PM org.apache.catalina.loader.WebappClassLoaderBase validateJarFile
+INFO: validateJarFile(/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/roboweb/WEB-INF/lib/javax.servlet-3.0.jar) - jar not loaded. See Servlet Spec 3.0, section 10.7.2. Offending class: javax/servlet/Servlet.class
+Oct 12, 2017 12:33:10 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: urn:com:sun:jersey:api:view is already defined
+Oct 12, 2017 12:33:10 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Oct 12, 2017 12:33:10 PM com.sun.jersey.api.core.PackagesResourceConfig init
+INFO: Scanning for root resource and provider classes in the packages:
+  ServerService
+Oct 12, 2017 12:33:10 PM com.sun.jersey.api.core.ScanningResourceConfig logClasses
+INFO: Root resource classes found:
+  class ServerService.RestServerService
+Oct 12, 2017 12:33:10 PM com.sun.jersey.api.core.ScanningResourceConfig init
+INFO: No provider classes found.
+Oct 12, 2017 12:33:10 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.19 02/11/2015 05:39 AM'
+Oct 12, 2017 12:33:10 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/roboweb.war has finished in 1,375 ms
+Oct 12, 2017 12:33:10 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/ROOT
+Oct 12, 2017 12:33:10 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Oct 12, 2017 12:33:10 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/ROOT has finished in 89 ms
+Oct 12, 2017 12:33:10 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/docs
+Oct 12, 2017 12:33:10 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Oct 12, 2017 12:33:10 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/docs has finished in 85 ms
+Oct 12, 2017 12:33:10 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/examples
+Oct 12, 2017 12:33:11 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Oct 12, 2017 12:33:11 PM org.apache.catalina.core.StandardContext startInternal
+SEVERE: One or more listeners failed to start. Full details will be found in the appropriate container log file
+Oct 12, 2017 12:33:11 PM org.apache.catalina.core.StandardContext startInternal
+SEVERE: Context [/examples] startup failed due to previous errors
+Oct 12, 2017 12:33:11 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/examples has finished in 183 ms
+Oct 12, 2017 12:33:11 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/host-manager
+Oct 12, 2017 12:33:11 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Oct 12, 2017 12:33:11 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/host-manager has finished in 89 ms
+Oct 12, 2017 12:33:11 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/manager
+Oct 12, 2017 12:33:11 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Oct 12, 2017 12:33:11 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/manager has finished in 76 ms
+Oct 12, 2017 12:33:11 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Oct 12, 2017 12:33:11 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Oct 12, 2017 12:33:11 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1952 ms
+Oct 12, 2017 12:33:21 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/roboweb]
+Oct 12, 2017 12:33:21 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/roboweb.war
+Oct 12, 2017 12:33:21 PM org.apache.catalina.startup.SetContextPropertiesRule begin
+WARNING: [SetContextPropertiesRule]{Context} Setting property 'debug' to '1' did not find a matching property.
+Oct 12, 2017 12:33:21 PM org.apache.catalina.loader.WebappClassLoaderBase validateJarFile
+INFO: validateJarFile(/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/roboweb/WEB-INF/lib/javax.servlet-3.0.jar) - jar not loaded. See Servlet Spec 3.0, section 10.7.2. Offending class: javax/servlet/Servlet.class
+Oct 12, 2017 12:33:22 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: urn:com:sun:jersey:api:view is already defined
+Oct 12, 2017 12:33:22 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Oct 12, 2017 12:33:22 PM com.sun.jersey.api.core.PackagesResourceConfig init
+INFO: Scanning for root resource and provider classes in the packages:
+  ServerService
+Oct 12, 2017 12:33:22 PM com.sun.jersey.api.core.ScanningResourceConfig logClasses
+INFO: Root resource classes found:
+  class ServerService.RestServerService
+Oct 12, 2017 12:33:22 PM com.sun.jersey.api.core.ScanningResourceConfig init
+INFO: No provider classes found.
+Oct 12, 2017 12:33:22 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.19 02/11/2015 05:39 AM'
+Oct 12, 2017 12:33:22 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/roboweb.war has finished in 1,265 ms
+Oct 12, 2017 12:34:58 PM org.apache.catalina.core.StandardServer await
+INFO: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+Oct 12, 2017 12:34:58 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+Oct 12, 2017 12:34:58 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-bio-8009"]
+Oct 12, 2017 12:34:58 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Oct 12, 2017 12:34:58 PM org.apache.catalina.loader.WebappClassLoaderBase clearReferencesThreads
+SEVERE: The web application [/roboweb] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak.
+Oct 12, 2017 12:34:58 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+Oct 12, 2017 12:34:58 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-bio-8009"]
+Oct 12, 2017 12:34:58 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+Oct 12, 2017 12:34:58 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-bio-8009"]
+Oct 12, 2017 12:34:58 PM org.apache.catalina.startup.Catalina initDirs
+SEVERE: Cannot find specified temporary folder at /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/temp
+Oct 12, 2017 12:34:58 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.81
+Oct 12, 2017 12:34:58 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Aug 11 2017 10:21:27 UTC
+Oct 12, 2017 12:34:58 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.81.0
+Oct 12, 2017 12:34:58 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Linux
+Oct 12, 2017 12:34:58 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            3.10.0-693.2.2.el7.x86_64
+Oct 12, 2017 12:34:58 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+Oct 12, 2017 12:34:58 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.144-0.b01.el7_4.x86_64/jre
+Oct 12, 2017 12:34:58 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.8.0_144-b01
+Oct 12, 2017 12:34:58 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Oct 12, 2017 12:34:58 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81
+Oct 12, 2017 12:34:58 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81
+Oct 12, 2017 12:34:58 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/conf/logging.properties
+Oct 12, 2017 12:34:58 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Oct 12, 2017 12:34:58 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+Oct 12, 2017 12:34:58 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/endorsed
+Oct 12, 2017 12:34:58 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81
+Oct 12, 2017 12:34:58 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81
+Oct 12, 2017 12:34:58 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/temp
+Oct 12, 2017 12:34:58 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Oct 12, 2017 12:34:58 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Oct 12, 2017 12:34:58 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Oct 12, 2017 12:34:58 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 391 ms
+Oct 12, 2017 12:34:58 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Oct 12, 2017 12:34:58 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.81
+Oct 12, 2017 12:34:58 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/roboweb.war
+Oct 12, 2017 12:34:58 PM org.apache.catalina.startup.SetContextPropertiesRule begin
+WARNING: [SetContextPropertiesRule]{Context} Setting property 'debug' to '1' did not find a matching property.
+Oct 12, 2017 12:34:58 PM org.apache.catalina.loader.WebappClassLoaderBase validateJarFile
+INFO: validateJarFile(/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/roboweb/WEB-INF/lib/javax.servlet-3.0.jar) - jar not loaded. See Servlet Spec 3.0, section 10.7.2. Offending class: javax/servlet/Servlet.class
+Oct 12, 2017 12:34:59 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: urn:com:sun:jersey:api:view is already defined
+Oct 12, 2017 12:34:59 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Oct 12, 2017 12:34:59 PM com.sun.jersey.api.core.PackagesResourceConfig init
+INFO: Scanning for root resource and provider classes in the packages:
+  ServerService
+Oct 12, 2017 12:34:59 PM com.sun.jersey.api.core.ScanningResourceConfig logClasses
+INFO: Root resource classes found:
+  class ServerService.RestServerService
+Oct 12, 2017 12:34:59 PM com.sun.jersey.api.core.ScanningResourceConfig init
+INFO: No provider classes found.
+Oct 12, 2017 12:34:59 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.19 02/11/2015 05:39 AM'
+Oct 12, 2017 12:35:00 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/roboweb.war has finished in 1,423 ms
+Oct 12, 2017 12:35:00 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/ROOT
+Oct 12, 2017 12:35:00 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Oct 12, 2017 12:35:00 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/ROOT has finished in 69 ms
+Oct 12, 2017 12:35:00 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/docs
+Oct 12, 2017 12:35:00 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Oct 12, 2017 12:35:00 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/docs has finished in 61 ms
+Oct 12, 2017 12:35:00 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/examples
+Oct 12, 2017 12:35:00 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Oct 12, 2017 12:35:00 PM org.apache.catalina.core.StandardContext startInternal
+SEVERE: One or more listeners failed to start. Full details will be found in the appropriate container log file
+Oct 12, 2017 12:35:00 PM org.apache.catalina.core.StandardContext startInternal
+SEVERE: Context [/examples] startup failed due to previous errors
+Oct 12, 2017 12:35:00 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/examples has finished in 142 ms
+Oct 12, 2017 12:35:00 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/host-manager
+Oct 12, 2017 12:35:00 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Oct 12, 2017 12:35:00 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/host-manager has finished in 85 ms
+Oct 12, 2017 12:35:00 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/manager
+Oct 12, 2017 12:35:00 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Oct 12, 2017 12:35:00 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/manager has finished in 76 ms
+Oct 12, 2017 12:35:00 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Oct 12, 2017 12:35:00 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Oct 12, 2017 12:35:00 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1920 ms
+Oct 12, 2017 12:35:10 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/roboweb]
+Oct 12, 2017 12:35:10 PM org.apache.catalina.loader.WebappClassLoaderBase clearReferencesThreads
+SEVERE: The web application [/roboweb] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak.
+Oct 12, 2017 12:35:10 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/roboweb.war
+Oct 12, 2017 12:35:10 PM org.apache.catalina.startup.SetContextPropertiesRule begin
+WARNING: [SetContextPropertiesRule]{Context} Setting property 'debug' to '1' did not find a matching property.
+Oct 12, 2017 12:35:11 PM org.apache.catalina.loader.WebappClassLoaderBase validateJarFile
+INFO: validateJarFile(/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/roboweb/WEB-INF/lib/javax.servlet-3.0.jar) - jar not loaded. See Servlet Spec 3.0, section 10.7.2. Offending class: javax/servlet/Servlet.class
+Oct 12, 2017 12:35:11 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: urn:com:sun:jersey:api:view is already defined
+Oct 12, 2017 12:35:11 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Oct 12, 2017 12:35:11 PM com.sun.jersey.api.core.PackagesResourceConfig init
+INFO: Scanning for root resource and provider classes in the packages:
+  ServerService
+Oct 12, 2017 12:35:11 PM com.sun.jersey.api.core.ScanningResourceConfig logClasses
+INFO: Root resource classes found:
+  class ServerService.RestServerService
+Oct 12, 2017 12:35:11 PM com.sun.jersey.api.core.ScanningResourceConfig init
+INFO: No provider classes found.
+Oct 12, 2017 12:35:11 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.19 02/11/2015 05:39 AM'
+Oct 12, 2017 12:35:12 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/roboweb.war has finished in 1,344 ms
+Oct 12, 2017 12:37:05 PM org.apache.coyote.http11.AbstractHttp11Processor process
+INFO: Error parsing HTTP request header
+ Note: further occurrences of HTTP header parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Request header is too large
+	at org.apache.coyote.http11.InternalInputBuffer.fill(InternalInputBuffer.java:515)
+	at org.apache.coyote.http11.InternalInputBuffer.fill(InternalInputBuffer.java:504)
+	at org.apache.coyote.http11.InternalInputBuffer.parseRequestLine(InternalInputBuffer.java:172)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1028)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:318)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+Oct 12, 2017 12:43:06 PM org.apache.catalina.core.StandardServer await
+INFO: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+Oct 12, 2017 12:43:06 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+Oct 12, 2017 12:43:06 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-bio-8009"]
+Oct 12, 2017 12:43:06 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Oct 12, 2017 12:43:06 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+Oct 12, 2017 12:43:06 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-bio-8009"]
+Oct 12, 2017 12:43:06 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+Oct 12, 2017 12:43:06 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-bio-8009"]
+Oct 12, 2017 12:43:06 PM org.apache.catalina.startup.Catalina initDirs
+SEVERE: Cannot find specified temporary folder at /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/temp
+Oct 12, 2017 12:43:07 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.81
+Oct 12, 2017 12:43:07 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Aug 11 2017 10:21:27 UTC
+Oct 12, 2017 12:43:07 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.81.0
+Oct 12, 2017 12:43:07 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Linux
+Oct 12, 2017 12:43:07 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            3.10.0-693.2.2.el7.x86_64
+Oct 12, 2017 12:43:07 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+Oct 12, 2017 12:43:07 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.144-0.b01.el7_4.x86_64/jre
+Oct 12, 2017 12:43:07 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.8.0_144-b01
+Oct 12, 2017 12:43:07 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Oct 12, 2017 12:43:07 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81
+Oct 12, 2017 12:43:07 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81
+Oct 12, 2017 12:43:07 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/conf/logging.properties
+Oct 12, 2017 12:43:07 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Oct 12, 2017 12:43:07 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+Oct 12, 2017 12:43:07 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/endorsed
+Oct 12, 2017 12:43:07 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81
+Oct 12, 2017 12:43:07 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81
+Oct 12, 2017 12:43:07 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/temp
+Oct 12, 2017 12:43:07 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Oct 12, 2017 12:43:07 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Oct 12, 2017 12:43:07 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Oct 12, 2017 12:43:07 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 407 ms
+Oct 12, 2017 12:43:07 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Oct 12, 2017 12:43:07 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.81
+Oct 12, 2017 12:43:07 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/roboweb.war
+Oct 12, 2017 12:43:07 PM org.apache.catalina.startup.SetContextPropertiesRule begin
+WARNING: [SetContextPropertiesRule]{Context} Setting property 'debug' to '1' did not find a matching property.
+Oct 12, 2017 12:43:07 PM org.apache.catalina.loader.WebappClassLoaderBase validateJarFile
+INFO: validateJarFile(/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/roboweb/WEB-INF/lib/javax.servlet-3.0.jar) - jar not loaded. See Servlet Spec 3.0, section 10.7.2. Offending class: javax/servlet/Servlet.class
+Oct 12, 2017 12:43:07 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: urn:com:sun:jersey:api:view is already defined
+Oct 12, 2017 12:43:07 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Oct 12, 2017 12:43:08 PM com.sun.jersey.api.core.PackagesResourceConfig init
+INFO: Scanning for root resource and provider classes in the packages:
+  ServerService
+Oct 12, 2017 12:43:08 PM com.sun.jersey.api.core.ScanningResourceConfig logClasses
+INFO: Root resource classes found:
+  class ServerService.RestServerService
+Oct 12, 2017 12:43:08 PM com.sun.jersey.api.core.ScanningResourceConfig init
+INFO: No provider classes found.
+Oct 12, 2017 12:43:08 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.19 02/11/2015 05:39 AM'
+Oct 12, 2017 12:43:08 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/roboweb.war has finished in 1,589 ms
+Oct 12, 2017 12:43:08 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/ROOT
+Oct 12, 2017 12:43:08 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Oct 12, 2017 12:43:08 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/ROOT has finished in 92 ms
+Oct 12, 2017 12:43:08 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/docs
+Oct 12, 2017 12:43:08 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Oct 12, 2017 12:43:08 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/docs has finished in 79 ms
+Oct 12, 2017 12:43:08 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/examples
+Oct 12, 2017 12:43:09 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Oct 12, 2017 12:43:09 PM org.apache.catalina.core.StandardContext startInternal
+SEVERE: One or more listeners failed to start. Full details will be found in the appropriate container log file
+Oct 12, 2017 12:43:09 PM org.apache.catalina.core.StandardContext startInternal
+SEVERE: Context [/examples] startup failed due to previous errors
+Oct 12, 2017 12:43:09 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/examples has finished in 173 ms
+Oct 12, 2017 12:43:09 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/host-manager
+Oct 12, 2017 12:43:09 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Oct 12, 2017 12:43:09 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/host-manager has finished in 89 ms
+Oct 12, 2017 12:43:09 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/manager
+Oct 12, 2017 12:43:09 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Oct 12, 2017 12:43:09 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/manager has finished in 90 ms
+Oct 12, 2017 12:43:09 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Oct 12, 2017 12:43:09 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Oct 12, 2017 12:43:09 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 2162 ms
+Oct 12, 2017 12:43:19 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/roboweb]
+Oct 12, 2017 12:43:19 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/roboweb.war
+Oct 12, 2017 12:43:19 PM org.apache.catalina.startup.SetContextPropertiesRule begin
+WARNING: [SetContextPropertiesRule]{Context} Setting property 'debug' to '1' did not find a matching property.
+Oct 12, 2017 12:43:19 PM org.apache.catalina.loader.WebappClassLoaderBase validateJarFile
+INFO: validateJarFile(/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/roboweb/WEB-INF/lib/javax.servlet-3.0.jar) - jar not loaded. See Servlet Spec 3.0, section 10.7.2. Offending class: javax/servlet/Servlet.class
+Oct 12, 2017 12:43:20 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: urn:com:sun:jersey:api:view is already defined
+Oct 12, 2017 12:43:20 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Oct 12, 2017 12:43:20 PM com.sun.jersey.api.core.PackagesResourceConfig init
+INFO: Scanning for root resource and provider classes in the packages:
+  ServerService
+Oct 12, 2017 12:43:20 PM com.sun.jersey.api.core.ScanningResourceConfig logClasses
+INFO: Root resource classes found:
+  class ServerService.RestServerService
+Oct 12, 2017 12:43:20 PM com.sun.jersey.api.core.ScanningResourceConfig init
+INFO: No provider classes found.
+Oct 12, 2017 12:43:20 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.19 02/11/2015 05:39 AM'
+Oct 12, 2017 12:43:20 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/roboweb.war has finished in 1,252 ms
+Oct 12, 2017 12:44:55 PM org.apache.catalina.core.StandardServer await
+INFO: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+Oct 12, 2017 12:44:55 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+Oct 12, 2017 12:44:55 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-bio-8009"]
+Oct 12, 2017 12:44:55 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Oct 12, 2017 12:44:55 PM org.apache.catalina.loader.WebappClassLoaderBase clearReferencesThreads
+SEVERE: The web application [/roboweb] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak.
+Oct 12, 2017 12:44:55 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+Oct 12, 2017 12:44:55 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-bio-8009"]
+Oct 12, 2017 12:44:55 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+Oct 12, 2017 12:44:55 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-bio-8009"]
+Oct 12, 2017 12:44:56 PM org.apache.catalina.startup.Catalina initDirs
+SEVERE: Cannot find specified temporary folder at /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/temp
+Oct 12, 2017 12:44:56 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.81
+Oct 12, 2017 12:44:56 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Aug 11 2017 10:21:27 UTC
+Oct 12, 2017 12:44:56 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.81.0
+Oct 12, 2017 12:44:56 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Linux
+Oct 12, 2017 12:44:56 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            3.10.0-693.2.2.el7.x86_64
+Oct 12, 2017 12:44:56 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+Oct 12, 2017 12:44:56 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.144-0.b01.el7_4.x86_64/jre
+Oct 12, 2017 12:44:56 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.8.0_144-b01
+Oct 12, 2017 12:44:56 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Oct 12, 2017 12:44:56 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81
+Oct 12, 2017 12:44:56 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81
+Oct 12, 2017 12:44:56 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/conf/logging.properties
+Oct 12, 2017 12:44:56 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Oct 12, 2017 12:44:56 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+Oct 12, 2017 12:44:56 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/endorsed
+Oct 12, 2017 12:44:56 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81
+Oct 12, 2017 12:44:56 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81
+Oct 12, 2017 12:44:56 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/temp
+Oct 12, 2017 12:44:56 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Oct 12, 2017 12:44:56 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Oct 12, 2017 12:44:56 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Oct 12, 2017 12:44:56 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 419 ms
+Oct 12, 2017 12:44:56 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Oct 12, 2017 12:44:56 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.81
+Oct 12, 2017 12:44:56 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/roboweb.war
+Oct 12, 2017 12:44:56 PM org.apache.catalina.startup.SetContextPropertiesRule begin
+WARNING: [SetContextPropertiesRule]{Context} Setting property 'debug' to '1' did not find a matching property.
+Oct 12, 2017 12:44:56 PM org.apache.catalina.loader.WebappClassLoaderBase validateJarFile
+INFO: validateJarFile(/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/roboweb/WEB-INF/lib/javax.servlet-3.0.jar) - jar not loaded. See Servlet Spec 3.0, section 10.7.2. Offending class: javax/servlet/Servlet.class
+Oct 12, 2017 12:44:57 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: urn:com:sun:jersey:api:view is already defined
+Oct 12, 2017 12:44:57 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Oct 12, 2017 12:44:57 PM com.sun.jersey.api.core.PackagesResourceConfig init
+INFO: Scanning for root resource and provider classes in the packages:
+  ServerService
+Oct 12, 2017 12:44:57 PM com.sun.jersey.api.core.ScanningResourceConfig logClasses
+INFO: Root resource classes found:
+  class ServerService.RestServerService
+Oct 12, 2017 12:44:57 PM com.sun.jersey.api.core.ScanningResourceConfig init
+INFO: No provider classes found.
+Oct 12, 2017 12:44:57 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.19 02/11/2015 05:39 AM'
+Oct 12, 2017 12:44:57 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/roboweb.war has finished in 1,520 ms
+Oct 12, 2017 12:44:57 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/ROOT
+Oct 12, 2017 12:44:58 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Oct 12, 2017 12:44:58 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/ROOT has finished in 82 ms
+Oct 12, 2017 12:44:58 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/docs
+Oct 12, 2017 12:44:58 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Oct 12, 2017 12:44:58 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/docs has finished in 71 ms
+Oct 12, 2017 12:44:58 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/examples
+Oct 12, 2017 12:44:58 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Oct 12, 2017 12:44:58 PM org.apache.catalina.core.StandardContext startInternal
+SEVERE: One or more listeners failed to start. Full details will be found in the appropriate container log file
+Oct 12, 2017 12:44:58 PM org.apache.catalina.core.StandardContext startInternal
+SEVERE: Context [/examples] startup failed due to previous errors
+Oct 12, 2017 12:44:58 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/examples has finished in 129 ms
+Oct 12, 2017 12:44:58 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/host-manager
+Oct 12, 2017 12:44:58 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Oct 12, 2017 12:44:58 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/host-manager has finished in 83 ms
+Oct 12, 2017 12:44:58 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/manager
+Oct 12, 2017 12:44:58 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Oct 12, 2017 12:44:58 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/manager has finished in 69 ms
+Oct 12, 2017 12:44:58 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Oct 12, 2017 12:44:58 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Oct 12, 2017 12:44:58 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 2033 ms
+Oct 12, 2017 12:45:08 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/roboweb]
+Oct 12, 2017 12:45:08 PM org.apache.catalina.loader.WebappClassLoaderBase clearReferencesThreads
+SEVERE: The web application [/roboweb] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak.
+Oct 12, 2017 12:45:08 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/roboweb.war
+Oct 12, 2017 12:45:08 PM org.apache.catalina.startup.SetContextPropertiesRule begin
+WARNING: [SetContextPropertiesRule]{Context} Setting property 'debug' to '1' did not find a matching property.
+Oct 12, 2017 12:45:09 PM org.apache.catalina.loader.WebappClassLoaderBase validateJarFile
+INFO: validateJarFile(/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/roboweb/WEB-INF/lib/javax.servlet-3.0.jar) - jar not loaded. See Servlet Spec 3.0, section 10.7.2. Offending class: javax/servlet/Servlet.class
+Oct 12, 2017 12:45:09 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: urn:com:sun:jersey:api:view is already defined
+Oct 12, 2017 12:45:09 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Oct 12, 2017 12:45:09 PM com.sun.jersey.api.core.PackagesResourceConfig init
+INFO: Scanning for root resource and provider classes in the packages:
+  ServerService
+Oct 12, 2017 12:45:09 PM com.sun.jersey.api.core.ScanningResourceConfig logClasses
+INFO: Root resource classes found:
+  class ServerService.RestServerService
+Oct 12, 2017 12:45:09 PM com.sun.jersey.api.core.ScanningResourceConfig init
+INFO: No provider classes found.
+Oct 12, 2017 12:45:09 PM com.sun.jersey.server.impl.application.WebApplicationImpl _initiate
+INFO: Initiating Jersey application, version 'Jersey: 1.19 02/11/2015 05:39 AM'
+Oct 12, 2017 12:45:09 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/webapps/roboweb.war has finished in 1,287 ms
+Oct 12, 2017 12:45:25 PM org.apache.coyote.http11.AbstractHttp11Processor process
+INFO: Error parsing HTTP request header
+ Note: further occurrences of HTTP header parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in the request target. The valid characters are defined in RFC 7230 and RFC 3986
+	at org.apache.coyote.http11.InternalInputBuffer.parseRequestLine(InternalInputBuffer.java:189)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1028)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:318)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+

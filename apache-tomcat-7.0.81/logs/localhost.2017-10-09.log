@@ -1,0 +1,1201 @@
+Oct 09, 2017 12:18:32 PM org.apache.catalina.core.StandardContext listenerStart
+SEVERE: Error configuring application listener of class listeners.ContextListener
+java.lang.ClassNotFoundException: listeners.ContextListener
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1892)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1735)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClass(DefaultInstanceManager.java:495)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClassMaybePrivileged(DefaultInstanceManager.java:477)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:113)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:5026)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5633)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:1009)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:985)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:652)
+	at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1296)
+	at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:2038)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Oct 09, 2017 12:18:32 PM org.apache.catalina.core.StandardContext listenerStart
+SEVERE: Error configuring application listener of class listeners.SessionListener
+java.lang.ClassNotFoundException: listeners.SessionListener
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1892)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1735)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClass(DefaultInstanceManager.java:495)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClassMaybePrivileged(DefaultInstanceManager.java:477)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:113)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:5026)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5633)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:1009)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:985)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:652)
+	at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1296)
+	at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:2038)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Oct 09, 2017 12:18:32 PM org.apache.catalina.core.StandardContext listenerStart
+SEVERE: Error configuring application listener of class websocket.drawboard.DrawboardContextListener
+java.lang.ClassNotFoundException: websocket.drawboard.DrawboardContextListener
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1892)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1735)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClass(DefaultInstanceManager.java:495)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClassMaybePrivileged(DefaultInstanceManager.java:477)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:113)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:5026)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5633)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:1009)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:985)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:652)
+	at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1296)
+	at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:2038)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Oct 09, 2017 12:18:32 PM org.apache.catalina.core.StandardContext listenerStart
+SEVERE: Skipped installing application listeners due to previous error(s)
+Oct 09, 2017 12:23:38 PM org.apache.catalina.core.StandardContext listenerStart
+SEVERE: Error configuring application listener of class listeners.ContextListener
+java.lang.ClassNotFoundException: listeners.ContextListener
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1892)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1735)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClass(DefaultInstanceManager.java:495)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClassMaybePrivileged(DefaultInstanceManager.java:477)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:113)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:5026)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5633)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:1009)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:985)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:652)
+	at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1296)
+	at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:2038)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Oct 09, 2017 12:23:38 PM org.apache.catalina.core.StandardContext listenerStart
+SEVERE: Error configuring application listener of class listeners.SessionListener
+java.lang.ClassNotFoundException: listeners.SessionListener
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1892)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1735)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClass(DefaultInstanceManager.java:495)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClassMaybePrivileged(DefaultInstanceManager.java:477)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:113)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:5026)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5633)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:1009)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:985)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:652)
+	at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1296)
+	at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:2038)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Oct 09, 2017 12:23:38 PM org.apache.catalina.core.StandardContext listenerStart
+SEVERE: Error configuring application listener of class websocket.drawboard.DrawboardContextListener
+java.lang.ClassNotFoundException: websocket.drawboard.DrawboardContextListener
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1892)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1735)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClass(DefaultInstanceManager.java:495)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClassMaybePrivileged(DefaultInstanceManager.java:477)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:113)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:5026)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5633)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:1009)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:985)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:652)
+	at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1296)
+	at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:2038)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Oct 09, 2017 12:23:38 PM org.apache.catalina.core.StandardContext listenerStart
+SEVERE: Skipped installing application listeners due to previous error(s)
+Oct 09, 2017 12:24:06 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet [jsp] in context with path [/roboweb] threw exception [An exception occurred processing JSP page /LoginCheck.jsp at line 17
+
+14: <% 
+15:     String username=request.getParameter("username"); 
+16:     String password=request.getParameter("password"); 
+17:     if((username.equals("admin") && password.equals("admin"))) { 
+18:         session.setAttribute("username",username); 
+19:         response.sendRedirect("welcome.jsp"); 
+20:     } else 
+
+
+Stacktrace:] with root cause
+java.lang.NullPointerException
+	at org.apache.jsp.LoginCheck_jsp._jspService(LoginCheck_jsp.java:94)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:439)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:395)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:339)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:506)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:962)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1115)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:318)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+Oct 09, 2017 12:26:30 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet [jsp] in context with path [/roboweb] threw exception [An exception occurred processing JSP page /LoginCheck.jsp at line 17
+
+14: <% 
+15:     String username=request.getParameter("username"); 
+16:     String password=request.getParameter("password"); 
+17:     if((username.equals("admin") && password.equals("admin"))) { 
+18:         session.setAttribute("username",username); 
+19:         response.sendRedirect("welcome.jsp"); 
+20:     } else 
+
+
+Stacktrace:] with root cause
+java.lang.NullPointerException
+	at org.apache.jsp.LoginCheck_jsp._jspService(LoginCheck_jsp.java:94)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:439)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:395)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:339)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:506)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:962)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1115)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+Oct 09, 2017 12:26:37 PM org.apache.catalina.core.StandardContext listenerStart
+SEVERE: Error configuring application listener of class listeners.ContextListener
+java.lang.ClassNotFoundException: listeners.ContextListener
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1892)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1735)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClass(DefaultInstanceManager.java:495)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClassMaybePrivileged(DefaultInstanceManager.java:477)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:113)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:5026)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5633)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:1009)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:985)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:652)
+	at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1296)
+	at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:2038)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Oct 09, 2017 12:26:37 PM org.apache.catalina.core.StandardContext listenerStart
+SEVERE: Error configuring application listener of class listeners.SessionListener
+java.lang.ClassNotFoundException: listeners.SessionListener
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1892)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1735)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClass(DefaultInstanceManager.java:495)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClassMaybePrivileged(DefaultInstanceManager.java:477)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:113)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:5026)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5633)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:1009)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:985)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:652)
+	at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1296)
+	at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:2038)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Oct 09, 2017 12:26:37 PM org.apache.catalina.core.StandardContext listenerStart
+SEVERE: Error configuring application listener of class websocket.drawboard.DrawboardContextListener
+java.lang.ClassNotFoundException: websocket.drawboard.DrawboardContextListener
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1892)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1735)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClass(DefaultInstanceManager.java:495)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClassMaybePrivileged(DefaultInstanceManager.java:477)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:113)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:5026)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5633)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:1009)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:985)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:652)
+	at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1296)
+	at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:2038)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Oct 09, 2017 12:26:37 PM org.apache.catalina.core.StandardContext listenerStart
+SEVERE: Skipped installing application listeners due to previous error(s)
+Oct 09, 2017 12:34:45 PM org.apache.catalina.core.StandardContext listenerStart
+SEVERE: Error configuring application listener of class listeners.ContextListener
+java.lang.ClassNotFoundException: listeners.ContextListener
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1892)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1735)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClass(DefaultInstanceManager.java:495)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClassMaybePrivileged(DefaultInstanceManager.java:477)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:113)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:5026)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5633)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:1009)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:985)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:652)
+	at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1296)
+	at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:2038)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Oct 09, 2017 12:34:45 PM org.apache.catalina.core.StandardContext listenerStart
+SEVERE: Error configuring application listener of class listeners.SessionListener
+java.lang.ClassNotFoundException: listeners.SessionListener
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1892)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1735)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClass(DefaultInstanceManager.java:495)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClassMaybePrivileged(DefaultInstanceManager.java:477)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:113)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:5026)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5633)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:1009)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:985)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:652)
+	at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1296)
+	at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:2038)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Oct 09, 2017 12:34:45 PM org.apache.catalina.core.StandardContext listenerStart
+SEVERE: Error configuring application listener of class websocket.drawboard.DrawboardContextListener
+java.lang.ClassNotFoundException: websocket.drawboard.DrawboardContextListener
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1892)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1735)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClass(DefaultInstanceManager.java:495)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClassMaybePrivileged(DefaultInstanceManager.java:477)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:113)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:5026)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5633)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:1009)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:985)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:652)
+	at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1296)
+	at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:2038)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Oct 09, 2017 12:34:45 PM org.apache.catalina.core.StandardContext listenerStart
+SEVERE: Skipped installing application listeners due to previous error(s)
+Oct 09, 2017 12:38:04 PM org.apache.catalina.core.StandardContext listenerStart
+SEVERE: Error configuring application listener of class listeners.ContextListener
+java.lang.ClassNotFoundException: listeners.ContextListener
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1892)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1735)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClass(DefaultInstanceManager.java:495)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClassMaybePrivileged(DefaultInstanceManager.java:477)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:113)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:5026)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5633)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:1009)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:985)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:652)
+	at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1296)
+	at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:2038)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Oct 09, 2017 12:38:04 PM org.apache.catalina.core.StandardContext listenerStart
+SEVERE: Error configuring application listener of class listeners.SessionListener
+java.lang.ClassNotFoundException: listeners.SessionListener
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1892)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1735)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClass(DefaultInstanceManager.java:495)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClassMaybePrivileged(DefaultInstanceManager.java:477)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:113)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:5026)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5633)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:1009)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:985)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:652)
+	at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1296)
+	at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:2038)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Oct 09, 2017 12:38:04 PM org.apache.catalina.core.StandardContext listenerStart
+SEVERE: Error configuring application listener of class websocket.drawboard.DrawboardContextListener
+java.lang.ClassNotFoundException: websocket.drawboard.DrawboardContextListener
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1892)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1735)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClass(DefaultInstanceManager.java:495)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClassMaybePrivileged(DefaultInstanceManager.java:477)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:113)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:5026)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5633)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:1009)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:985)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:652)
+	at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1296)
+	at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:2038)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Oct 09, 2017 12:38:04 PM org.apache.catalina.core.StandardContext listenerStart
+SEVERE: Skipped installing application listeners due to previous error(s)
+Oct 09, 2017 12:41:52 PM org.apache.catalina.core.StandardContext listenerStart
+SEVERE: Error configuring application listener of class listeners.ContextListener
+java.lang.ClassNotFoundException: listeners.ContextListener
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1892)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1735)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClass(DefaultInstanceManager.java:495)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClassMaybePrivileged(DefaultInstanceManager.java:477)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:113)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:5026)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5633)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:1009)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:985)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:652)
+	at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1296)
+	at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:2038)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Oct 09, 2017 12:41:52 PM org.apache.catalina.core.StandardContext listenerStart
+SEVERE: Error configuring application listener of class listeners.SessionListener
+java.lang.ClassNotFoundException: listeners.SessionListener
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1892)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1735)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClass(DefaultInstanceManager.java:495)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClassMaybePrivileged(DefaultInstanceManager.java:477)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:113)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:5026)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5633)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:1009)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:985)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:652)
+	at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1296)
+	at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:2038)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Oct 09, 2017 12:41:52 PM org.apache.catalina.core.StandardContext listenerStart
+SEVERE: Error configuring application listener of class websocket.drawboard.DrawboardContextListener
+java.lang.ClassNotFoundException: websocket.drawboard.DrawboardContextListener
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1892)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1735)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClass(DefaultInstanceManager.java:495)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClassMaybePrivileged(DefaultInstanceManager.java:477)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:113)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:5026)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5633)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:1009)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:985)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:652)
+	at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1296)
+	at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:2038)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Oct 09, 2017 12:41:52 PM org.apache.catalina.core.StandardContext listenerStart
+SEVERE: Skipped installing application listeners due to previous error(s)
+Oct 09, 2017 12:44:24 PM org.apache.catalina.core.StandardContext listenerStart
+SEVERE: Error configuring application listener of class listeners.ContextListener
+java.lang.ClassNotFoundException: listeners.ContextListener
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1892)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1735)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClass(DefaultInstanceManager.java:495)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClassMaybePrivileged(DefaultInstanceManager.java:477)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:113)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:5026)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5633)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:1009)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:985)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:652)
+	at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1296)
+	at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:2038)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Oct 09, 2017 12:44:24 PM org.apache.catalina.core.StandardContext listenerStart
+SEVERE: Error configuring application listener of class listeners.SessionListener
+java.lang.ClassNotFoundException: listeners.SessionListener
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1892)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1735)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClass(DefaultInstanceManager.java:495)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClassMaybePrivileged(DefaultInstanceManager.java:477)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:113)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:5026)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5633)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:1009)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:985)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:652)
+	at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1296)
+	at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:2038)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Oct 09, 2017 12:44:24 PM org.apache.catalina.core.StandardContext listenerStart
+SEVERE: Error configuring application listener of class websocket.drawboard.DrawboardContextListener
+java.lang.ClassNotFoundException: websocket.drawboard.DrawboardContextListener
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1892)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1735)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClass(DefaultInstanceManager.java:495)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClassMaybePrivileged(DefaultInstanceManager.java:477)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:113)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:5026)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5633)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:1009)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:985)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:652)
+	at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1296)
+	at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:2038)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Oct 09, 2017 12:44:24 PM org.apache.catalina.core.StandardContext listenerStart
+SEVERE: Skipped installing application listeners due to previous error(s)
+Oct 09, 2017 12:49:01 PM org.apache.catalina.core.StandardContext listenerStart
+SEVERE: Error configuring application listener of class listeners.ContextListener
+java.lang.ClassNotFoundException: listeners.ContextListener
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1892)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1735)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClass(DefaultInstanceManager.java:495)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClassMaybePrivileged(DefaultInstanceManager.java:477)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:113)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:5026)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5633)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:1009)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:985)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:652)
+	at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1296)
+	at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:2038)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Oct 09, 2017 12:49:01 PM org.apache.catalina.core.StandardContext listenerStart
+SEVERE: Error configuring application listener of class listeners.SessionListener
+java.lang.ClassNotFoundException: listeners.SessionListener
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1892)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1735)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClass(DefaultInstanceManager.java:495)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClassMaybePrivileged(DefaultInstanceManager.java:477)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:113)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:5026)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5633)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:1009)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:985)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:652)
+	at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1296)
+	at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:2038)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Oct 09, 2017 12:49:01 PM org.apache.catalina.core.StandardContext listenerStart
+SEVERE: Error configuring application listener of class websocket.drawboard.DrawboardContextListener
+java.lang.ClassNotFoundException: websocket.drawboard.DrawboardContextListener
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1892)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1735)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClass(DefaultInstanceManager.java:495)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClassMaybePrivileged(DefaultInstanceManager.java:477)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:113)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:5026)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5633)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:1009)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:985)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:652)
+	at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1296)
+	at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:2038)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Oct 09, 2017 12:49:01 PM org.apache.catalina.core.StandardContext listenerStart
+SEVERE: Skipped installing application listeners due to previous error(s)
+Oct 09, 2017 12:56:23 PM org.apache.catalina.core.StandardContext listenerStart
+SEVERE: Error configuring application listener of class listeners.ContextListener
+java.lang.ClassNotFoundException: listeners.ContextListener
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1892)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1735)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClass(DefaultInstanceManager.java:495)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClassMaybePrivileged(DefaultInstanceManager.java:477)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:113)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:5026)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5633)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:1009)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:985)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:652)
+	at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1296)
+	at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:2038)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Oct 09, 2017 12:56:23 PM org.apache.catalina.core.StandardContext listenerStart
+SEVERE: Error configuring application listener of class listeners.SessionListener
+java.lang.ClassNotFoundException: listeners.SessionListener
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1892)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1735)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClass(DefaultInstanceManager.java:495)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClassMaybePrivileged(DefaultInstanceManager.java:477)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:113)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:5026)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5633)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:1009)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:985)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:652)
+	at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1296)
+	at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:2038)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Oct 09, 2017 12:56:23 PM org.apache.catalina.core.StandardContext listenerStart
+SEVERE: Error configuring application listener of class websocket.drawboard.DrawboardContextListener
+java.lang.ClassNotFoundException: websocket.drawboard.DrawboardContextListener
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1892)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1735)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClass(DefaultInstanceManager.java:495)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClassMaybePrivileged(DefaultInstanceManager.java:477)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:113)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:5026)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5633)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:1009)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:985)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:652)
+	at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1296)
+	at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:2038)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Oct 09, 2017 12:56:23 PM org.apache.catalina.core.StandardContext listenerStart
+SEVERE: Skipped installing application listeners due to previous error(s)
+Oct 09, 2017 6:11:00 PM org.apache.catalina.core.StandardContext listenerStart
+SEVERE: Error configuring application listener of class listeners.ContextListener
+java.lang.ClassNotFoundException: listeners.ContextListener
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1892)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1735)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClass(DefaultInstanceManager.java:495)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClassMaybePrivileged(DefaultInstanceManager.java:477)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:113)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:5026)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5633)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:1009)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:985)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:652)
+	at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1296)
+	at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:2038)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Oct 09, 2017 6:11:00 PM org.apache.catalina.core.StandardContext listenerStart
+SEVERE: Error configuring application listener of class listeners.SessionListener
+java.lang.ClassNotFoundException: listeners.SessionListener
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1892)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1735)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClass(DefaultInstanceManager.java:495)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClassMaybePrivileged(DefaultInstanceManager.java:477)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:113)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:5026)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5633)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:1009)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:985)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:652)
+	at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1296)
+	at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:2038)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Oct 09, 2017 6:11:00 PM org.apache.catalina.core.StandardContext listenerStart
+SEVERE: Error configuring application listener of class websocket.drawboard.DrawboardContextListener
+java.lang.ClassNotFoundException: websocket.drawboard.DrawboardContextListener
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1892)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1735)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClass(DefaultInstanceManager.java:495)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClassMaybePrivileged(DefaultInstanceManager.java:477)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:113)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:5026)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5633)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:1009)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:985)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:652)
+	at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1296)
+	at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:2038)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Oct 09, 2017 6:11:00 PM org.apache.catalina.core.StandardContext listenerStart
+SEVERE: Skipped installing application listeners due to previous error(s)
+Oct 09, 2017 6:11:54 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet [jsp] in context with path [/roboweb] threw exception [An exception occurred processing JSP page /UserRegister.jsp at line 18
+
+15: <%@ page import= "javax.sql.*" %>
+16: <% 
+17: 	Class.forName("com.mysql.jdbc.Driver");
+18: 	Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3360/robocode", "root", "root");
+19: 	Statement smt = con.createStatement();
+20: 	ResultSet rs;
+21:     String username=request.getParameter("username"); 
+
+
+Stacktrace:] with root cause
+java.net.ConnectException: Connection refused (Connection refused)
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:214)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:298)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2252)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2285)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2084)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:795)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:44)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:400)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:327)
+	at java.sql.DriverManager.getConnection(DriverManager.java:664)
+	at java.sql.DriverManager.getConnection(DriverManager.java:247)
+	at org.apache.jsp.UserRegister_jsp._jspService(UserRegister_jsp.java:97)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:439)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:395)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:339)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:506)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:962)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1115)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+Oct 09, 2017 6:57:07 PM org.apache.catalina.core.StandardContext listenerStart
+SEVERE: Error configuring application listener of class listeners.ContextListener
+java.lang.ClassNotFoundException: listeners.ContextListener
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1892)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1735)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClass(DefaultInstanceManager.java:495)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClassMaybePrivileged(DefaultInstanceManager.java:477)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:113)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:5026)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5633)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:1009)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:985)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:652)
+	at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1296)
+	at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:2038)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Oct 09, 2017 6:57:07 PM org.apache.catalina.core.StandardContext listenerStart
+SEVERE: Error configuring application listener of class listeners.SessionListener
+java.lang.ClassNotFoundException: listeners.SessionListener
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1892)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1735)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClass(DefaultInstanceManager.java:495)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClassMaybePrivileged(DefaultInstanceManager.java:477)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:113)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:5026)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5633)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:1009)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:985)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:652)
+	at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1296)
+	at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:2038)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Oct 09, 2017 6:57:07 PM org.apache.catalina.core.StandardContext listenerStart
+SEVERE: Error configuring application listener of class websocket.drawboard.DrawboardContextListener
+java.lang.ClassNotFoundException: websocket.drawboard.DrawboardContextListener
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1892)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1735)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClass(DefaultInstanceManager.java:495)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClassMaybePrivileged(DefaultInstanceManager.java:477)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:113)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:5026)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5633)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:1009)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:985)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:652)
+	at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1296)
+	at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:2038)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Oct 09, 2017 6:57:07 PM org.apache.catalina.core.StandardContext listenerStart
+SEVERE: Skipped installing application listeners due to previous error(s)
+Oct 09, 2017 6:57:45 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet [jsp] in context with path [/roboweb] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: 31 in the jsp file: /UserRegister.jsp
+Syntax error on tokens, delete these tokens
+28:         out.println("Registration successfull");
+29:         response.sendRedirect("Welcome.jsp");
+30:         
+31:     } else 
+32:         response.sendRedirect("Login.jsp"); 
+33: %>
+34: </body>
+
+
+An error occurred at line: 33 in the jsp file: /UserRegister.jsp
+Syntax error, insert "}" to complete Block
+30:         
+31:     } else 
+32:         response.sendRedirect("Login.jsp"); 
+33: %>
+34: </body>
+35: </html>
+
+
+An error occurred at line: 33 in the jsp file: /UserRegister.jsp
+Syntax error, insert "Finally" to complete TryStatement
+30:         
+31:     } else 
+32:         response.sendRedirect("Login.jsp"); 
+33: %>
+34: </body>
+35: </html>
+
+
+An error occurred at line: [116] in the generated java file: [/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/work/Catalina/localhost/roboweb/org/apache/jsp/UserRegister_jsp.java]
+Syntax error on token "catch", Identifier expected
+
+An error occurred at line: [118] in the generated java file: [/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/work/Catalina/localhost/roboweb/org/apache/jsp/UserRegister_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [118] in the generated java file: [/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/work/Catalina/localhost/roboweb/org/apache/jsp/UserRegister_jsp.java]
+_jspx_out cannot be resolved to a variable
+
+An error occurred at line: [119] in the generated java file: [/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/work/Catalina/localhost/roboweb/org/apache/jsp/UserRegister_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [119] in the generated java file: [/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/work/Catalina/localhost/roboweb/org/apache/jsp/UserRegister_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [121] in the generated java file: [/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/work/Catalina/localhost/roboweb/org/apache/jsp/UserRegister_jsp.java]
+response cannot be resolved
+
+An error occurred at line: [122] in the generated java file: [/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/work/Catalina/localhost/roboweb/org/apache/jsp/UserRegister_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [124] in the generated java file: [/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/work/Catalina/localhost/roboweb/org/apache/jsp/UserRegister_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [127] in the generated java file: [/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/work/Catalina/localhost/roboweb/org/apache/jsp/UserRegister_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+An error occurred at line: [127] in the generated java file: [/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/work/Catalina/localhost/roboweb/org/apache/jsp/UserRegister_jsp.java]
+_jspx_page_context cannot be resolved
+
+An error occurred at line: [130] in the generated java file: [/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/work/Catalina/localhost/roboweb/org/apache/jsp/UserRegister_jsp.java]
+Syntax error on token "finally", { expected
+
+An error occurred at line: [131] in the generated java file: [/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/work/Catalina/localhost/roboweb/org/apache/jsp/UserRegister_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+Stacktrace:] with root cause
+org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: 31 in the jsp file: /UserRegister.jsp
+Syntax error on tokens, delete these tokens
+28:         out.println("Registration successfull");
+29:         response.sendRedirect("Welcome.jsp");
+30:         
+31:     } else 
+32:         response.sendRedirect("Login.jsp"); 
+33: %>
+34: </body>
+
+
+An error occurred at line: 33 in the jsp file: /UserRegister.jsp
+Syntax error, insert "}" to complete Block
+30:         
+31:     } else 
+32:         response.sendRedirect("Login.jsp"); 
+33: %>
+34: </body>
+35: </html>
+
+
+An error occurred at line: 33 in the jsp file: /UserRegister.jsp
+Syntax error, insert "Finally" to complete TryStatement
+30:         
+31:     } else 
+32:         response.sendRedirect("Login.jsp"); 
+33: %>
+34: </body>
+35: </html>
+
+
+An error occurred at line: [116] in the generated java file: [/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/work/Catalina/localhost/roboweb/org/apache/jsp/UserRegister_jsp.java]
+Syntax error on token "catch", Identifier expected
+
+An error occurred at line: [118] in the generated java file: [/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/work/Catalina/localhost/roboweb/org/apache/jsp/UserRegister_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [118] in the generated java file: [/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/work/Catalina/localhost/roboweb/org/apache/jsp/UserRegister_jsp.java]
+_jspx_out cannot be resolved to a variable
+
+An error occurred at line: [119] in the generated java file: [/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/work/Catalina/localhost/roboweb/org/apache/jsp/UserRegister_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [119] in the generated java file: [/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/work/Catalina/localhost/roboweb/org/apache/jsp/UserRegister_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [121] in the generated java file: [/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/work/Catalina/localhost/roboweb/org/apache/jsp/UserRegister_jsp.java]
+response cannot be resolved
+
+An error occurred at line: [122] in the generated java file: [/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/work/Catalina/localhost/roboweb/org/apache/jsp/UserRegister_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [124] in the generated java file: [/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/work/Catalina/localhost/roboweb/org/apache/jsp/UserRegister_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [127] in the generated java file: [/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/work/Catalina/localhost/roboweb/org/apache/jsp/UserRegister_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+An error occurred at line: [127] in the generated java file: [/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/work/Catalina/localhost/roboweb/org/apache/jsp/UserRegister_jsp.java]
+_jspx_page_context cannot be resolved
+
+An error occurred at line: [130] in the generated java file: [/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/work/Catalina/localhost/roboweb/org/apache/jsp/UserRegister_jsp.java]
+Syntax error on token "finally", { expected
+
+An error occurred at line: [131] in the generated java file: [/home/c2-4/codebase/cloud_code/apache-tomcat-7.0.81/work/Catalina/localhost/roboweb/org/apache/jsp/UserRegister_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+Stacktrace:
+	at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:103)
+	at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:366)
+	at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:490)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:379)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:354)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:341)
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:660)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:364)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:395)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:339)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:506)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:962)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1115)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+Oct 09, 2017 6:59:02 PM org.apache.catalina.core.StandardContext listenerStart
+SEVERE: Error configuring application listener of class listeners.ContextListener
+java.lang.ClassNotFoundException: listeners.ContextListener
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1892)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1735)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClass(DefaultInstanceManager.java:495)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClassMaybePrivileged(DefaultInstanceManager.java:477)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:113)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:5026)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5633)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:1009)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:985)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:652)
+	at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1296)
+	at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:2038)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Oct 09, 2017 6:59:02 PM org.apache.catalina.core.StandardContext listenerStart
+SEVERE: Error configuring application listener of class listeners.SessionListener
+java.lang.ClassNotFoundException: listeners.SessionListener
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1892)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1735)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClass(DefaultInstanceManager.java:495)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClassMaybePrivileged(DefaultInstanceManager.java:477)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:113)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:5026)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5633)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:1009)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:985)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:652)
+	at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1296)
+	at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:2038)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Oct 09, 2017 6:59:02 PM org.apache.catalina.core.StandardContext listenerStart
+SEVERE: Error configuring application listener of class websocket.drawboard.DrawboardContextListener
+java.lang.ClassNotFoundException: websocket.drawboard.DrawboardContextListener
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1892)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1735)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClass(DefaultInstanceManager.java:495)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClassMaybePrivileged(DefaultInstanceManager.java:477)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:113)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:5026)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5633)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:1009)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:985)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:652)
+	at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1296)
+	at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:2038)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Oct 09, 2017 6:59:02 PM org.apache.catalina.core.StandardContext listenerStart
+SEVERE: Skipped installing application listeners due to previous error(s)
+Oct 09, 2017 6:59:24 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet [jsp] in context with path [/roboweb] threw exception [An exception occurred processing JSP page /UserRegister.jsp at line 18
+
+15: <%@ page import= "javax.sql.*" %>
+16: <% 
+17: 	Class.forName("com.mysql.jdbc.Driver");
+18: 	Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3360/robocode", "root", "root");
+19: 	Statement smt = con.createStatement();
+20: 	ResultSet rs;
+21:     String username=request.getParameter("username"); 
+
+
+Stacktrace:] with root cause
+java.net.ConnectException: Connection refused (Connection refused)
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:214)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:298)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2252)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2285)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2084)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:795)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:44)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:400)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:327)
+	at java.sql.DriverManager.getConnection(DriverManager.java:664)
+	at java.sql.DriverManager.getConnection(DriverManager.java:247)
+	at org.apache.jsp.UserRegister_jsp._jspService(UserRegister_jsp.java:97)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:439)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:395)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:339)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:506)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:962)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1115)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:318)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
