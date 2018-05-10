@@ -1,0 +1,49 @@
+/AdvancedRobot.java/1.14/Wed Apr 25 19:23:22 2007//
+/Bullet.java/1.9/Wed Apr 25 19:23:22 2007//
+/BulletHitBulletEvent.java/1.9/Wed Apr 25 19:21:12 2007//
+/BulletHitEvent.java/1.9/Wed Apr 25 19:21:12 2007//
+/BulletMissedEvent.java/1.9/Wed Apr 25 19:21:12 2007//
+/Condition.java/1.10/Wed Apr 25 19:23:22 2007//
+/CustomEvent.java/1.9/Wed Apr 25 19:21:12 2007//
+/DeathEvent.java/1.8/Wed Apr 25 19:21:12 2007//
+/Droid.java/1.7/Wed Apr 25 19:19:08 2007//
+/Event.java/1.11/Mon Apr 30 22:49:05 2007//
+/GunTurnCompleteCondition.java/1.8/Wed Apr 25 19:21:12 2007//
+/HitByBulletEvent.java/1.9/Wed Apr 25 19:21:12 2007//
+/HitRobotEvent.java/1.10/Wed Apr 25 19:21:12 2007//
+/HitWallEvent.java/1.9/Wed Apr 25 19:21:12 2007//
+/MessageEvent.java/1.10/Wed Apr 25 19:21:12 2007//
+/MoveCompleteCondition.java/1.8/Wed Apr 25 19:21:12 2007//
+/RadarTurnCompleteCondition.java/1.8/Wed Apr 25 19:21:12 2007//
+/Robocode.java/1.27/Wed Apr 25 19:23:22 2007//
+/RobocodeFileOutputStream.java/1.13/Wed Apr 25 19:23:22 2007//
+/RobocodeFileWriter.java/1.9/Wed Apr 25 19:21:12 2007//
+/Robot.java/1.20/Mon Apr 30 22:00:11 2007//
+/RobotDeathEvent.java/1.9/Wed Apr 25 19:21:13 2007//
+/Rules.java/1.9/Wed Apr 25 19:23:23 2007//
+/ScannedRobotEvent.java/1.10/Wed Apr 25 19:21:13 2007//
+/SkippedTurnEvent.java/1.9/Wed Apr 25 19:21:13 2007//
+/TeamRobot.java/1.15/Wed May  9 18:33:15 2007//
+/TurnCompleteCondition.java/1.8/Wed Apr 25 19:21:13 2007//
+/WinEvent.java/1.9/Wed Apr 25 19:21:13 2007//
+/_AdvancedRadiansRobot.java/1.13/Mon Apr 30 22:04:59 2007//
+/_AdvancedRobot.java/1.12/Wed Apr 25 19:21:13 2007//
+/_Robot.java/1.17/Wed Apr 25 19:23:23 2007//
+D/battle////
+D/battlefield////
+D/battleview////
+D/control////
+D/dialog////
+D/editor////
+D/exception////
+D/io////
+D/manager////
+/package.html/1.1/Sun May  6 22:49:51 2007//
+D/packager////
+D/peer////
+D/render////
+D/repository////
+D/security////
+D/sound////
+D/text////
+D/util////

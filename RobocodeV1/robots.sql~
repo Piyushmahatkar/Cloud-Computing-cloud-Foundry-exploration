@@ -1,0 +1,10 @@
+CREATE TABLE robot (
+	id SMALLINT UNSIGNED NOT NULL AUTO_INCREMENT,
+	userID VARCHAR(20),
+	packageID VARCHAR(20),
+	robotID VARCHAR(20),
+	dataaccess CHAR(1),
+	file MEDIUMBLOB,
+	filepath VARCHAR(100),
+	PRIMARY KEY (id)
+            ) ENGINE=InnoDB;
