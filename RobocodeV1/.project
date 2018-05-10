@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>RobocodeV1</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.wst.jsdt.core.javascriptValidator</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.wst.common.project.facet.core.builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.wst.validation.validationbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jem.workbench.JavaEMFNature</nature>
+		<nature>org.eclipse.wst.common.modulecore.ModuleCoreNature</nature>
+		<nature>org.eclipse.wst.common.project.facet.core.nature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/src-min</name>
+			<type>2</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/ace-builds/src-min</locationURI>
+		</link>
+		<link>
+			<name>WebContent/img/power button.png</name>
+			<type>1</type>
+			<location>C:/Users/ECSS-3.214-Nidhi/Desktop/Robocode Demo/RobocodeV1_08_31/RobocodeV1/WebContent/img/power button.png</location>
+		</link>
+		<link>
+			<name>WebContent/WEB-INF/lib/asm-3.1.jar</name>
+			<type>1</type>
+			<locationURI>copy_PARENT/Downloads/asm-3.1.jar</locationURI>
+		</link>
+		<link>
+			<name>WebContent/WEB-INF/lib/dom4j-1.6.1-2.jar</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/dom4j-1.6.1-2.jar</locationURI>
+		</link>
+		<link>
+			<name>WebContent/WEB-INF/lib/javax.servlet-3.0.jar</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/javax.servlet-3.0.jar</locationURI>
+		</link>
+		<link>
+			<name>WebContent/font-awesome/fonts/FredokaOne-Regular.ttf</name>
+			<type>1</type>
+			<location>C:/Users/ECSS-3.214-Nidhi/Desktop/Robocode Demo/RobocodeV1_08_31/RobocodeV1/WebContent/font-awesome/fonts/FredokaOne-Regular.ttf</location>
+		</link>
+	</linkedResources>
+	<variableList>
+		<variable>
+			<name>copy_PARENT</name>
+			<value>$%7BPARENT-3-PROJECT_LOC%7D</value>
+		</variable>
+	</variableList>
+</projectDescription>

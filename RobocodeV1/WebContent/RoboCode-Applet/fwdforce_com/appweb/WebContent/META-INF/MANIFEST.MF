@@ -1,0 +1,1200 @@
+Manifest-Version: 1.0
+
+Name: resources/images/explosion/explosion1-1.png
+SHA-256-Digest: /NklNyiwlo1KMlqaozzLEdV2rwygjaPehd9fF5PQ/xI=
+
+Name: robocode/Robocode.class
+SHA-256-Digest: cbxGLgJwY7oiZR5sXobqWZjEuS0kc80tky20WX7wvwU=
+
+Name: robocode/manager/BattleManager$PauseResumeListener.class
+SHA-256-Digest: mkyaLOajf7fQCSy9jjj/ue5GUEGJIl1+nPBOXT8qw3A=
+
+Name: robocode/text/LimitedDocument.class
+SHA-256-Digest: Xa53BqtYwxVkghonCzDHPJc6A0SNPOSsqoiGcAn14gw=
+
+Name: robocode/dialog/SplashScreen$1.class
+SHA-256-Digest: kBNfr10EL5kYcKbumei4nAZeZi7ms6Zj4mZnmDKL6ec=
+
+Name: resources/images/explosion/explosion2-20.png
+SHA-256-Digest: rpUQN29J6O/kJ1gH/W3aq1TWqrXEsbqdsnWa3+GNM1g=
+
+Name: robots/sample/Tracker.class
+SHA-256-Digest: K4WY4/PK0Wo8A4Mi3zzrsGfd7yxJFhL6Pry5bfCNT9I=
+
+Name: robocode/exception/WinException.class
+SHA-256-Digest: eoMVwWd2HmbC+ZKl6X/6HydpET6roCCdG5zhGSHk6G0=
+
+Name: robocode/manager/NameManager.class
+SHA-256-Digest: OiiMbJJaJ6U3QBlAC1xT0+TUURTxsLKkAl4xGXykh50=
+
+Name: robocode/repository/ClassSpecification.class
+SHA-256-Digest: g9E2losUFdgId5+3qmmxwiE1+na1bub2veNZz5wWQt4=
+
+Name: robocode/RadarTurnCompleteCondition.class
+SHA-256-Digest: vCiNBeQjcnKxIMi0Mgn72XyfcV0FcbEhH0en2DpDYxQ=
+
+Name: robocode/editor/Keywords.class
+SHA-256-Digest: FXEnKUEakR+G7a4muKLtHRG+A5pw2X1xRvmPREO/08o=
+
+Name: resources/sounds/13831_adcbicycle_22.wav
+SHA-256-Digest: RL7kZPRBSaN0fqbBuw8do/FzjMM2ggZrKRgr7jOflmc=
+
+Name: robocode/dialog/PreferencesDialog$1.class
+SHA-256-Digest: oEDLiyWc/oXA/bdpo7VFK/09gdYlFwt7NBE1kjGCUCU=
+
+Name: resources/images/explosion/explosion2-6.png
+SHA-256-Digest: Age/jyZob7p21/whe1dGtcyAIVGHe2Qny/fZnUM0hts=
+
+Name: robocode/_AdvancedRobot.class
+SHA-256-Digest: m30lMmQjCcRHKlLBjZSUefQhys+3yYzNHl5RZLXKIVg=
+
+Name: appletComponentArch/DynamicTreeApplet.class
+SHA-256-Digest: BuL4MgQd/ZmwJDOZpqnwWirst2/5zM1PNxZJ5bi/JJ0=
+
+Name: robocode/editor/LineNumbers.class
+SHA-256-Digest: 2uF7q/QymLXaztmgRrPyiZbBSwFA7jTxtpE+EWFuHLA=
+
+Name: robocode/dialog/NewBattleDialog$1.class
+SHA-256-Digest: E4OfH5SWWzSxicpe5+viltkENBmyFZAgnDWOgujhsVI=
+
+Name: robocode/security/SecurePrintStream.class
+SHA-256-Digest: YQ9Gv04DlLvUuKH87gOrQRUmGmifz/MJisp7+ftXLjE=
+
+Name: robocode/DeathEvent.class
+SHA-256-Digest: NvOmZLJZ88OBBW+Oo/heTQtHaoVlMKs4mbK9ngcNKVg=
+
+Name: robocode/dialog/NewBattleDialog$EventHandler.class
+SHA-256-Digest: 2r1yiTjoOk9ZoBDOfhfR3rmQH61FxM+rp5KWDUQVJVQ=
+
+Name: resources/images/explosion/explosion2-61.png
+SHA-256-Digest: wFjkDYzwRira5fEmkIF8jypVVR9aRBd+OgY07zjRqn8=
+
+Name: resources/images/explosion/explosion2-60.png
+SHA-256-Digest: gQnALM3FbL4N/iL11bK4KWO0x2m3Tn1oQciGSy8xJrA=
+
+Name: robocode/DynamicTreeApplet$1.class
+SHA-256-Digest: knDbQVeTdmTVaom08Q53TtpcLdJTRcQL1BAI8Dye/v0=
+
+Name: resources/images/explosion/explosion1-12.png
+SHA-256-Digest: DQRRRgZ+bHWWTN1tTuAuv2KV5gXzGs8/akPm6ZudY+U=
+
+Name: .project
+SHA-256-Digest: 7jHFH7pidqJqtoNs0UG8ZitfkauM+qE8GtSk9AY6B7c=
+
+Name: strawberry.jpg
+SHA-256-Digest: Ulk0e2eFrwdRLn7FLSWpghTERWLphIS8GBZuwXZwUIo=
+
+Name: robocode/HitWallEvent.class
+SHA-256-Digest: Tr0s0MUNj1UcGOOQ+E2Qs0X9Hb0GcZlOaOK43//QFwI=
+
+Name: resources/images/explosion/explosion2-65.png
+SHA-256-Digest: Uo0Rsr6UPRBMF+ppFIgvNOqZsHJd2yeGQF3bGFb45FE=
+
+Name: resources/images/explosion/explosion2-38.png
+SHA-256-Digest: Apl18l9VDih6oCt2Xldev8MWInaf2JB16lV0tJxSPF4=
+
+Name: robocode/dialog/PreferencesSoundOptionsTab$MixerInfoCellRenderer
+ .class
+SHA-256-Digest: QCfYZqRcbvaPOyNZCtI/KS3uS+YOpXvsgOLfZW5+tzo=
+
+Name: robocode/dialog/RobotSelectionPanel$1.class
+SHA-256-Digest: k7+LSpRspLFFEFN6y5nQIiAJeSqqA6M7qZT13hCNAJA=
+
+Name: robocode/dialog/RobotDialog.class
+SHA-256-Digest: 9nBw3JIuRvASdkHjB/EZXwM9i3R9Aydb3o7OJPBWjo0=
+
+Name: resources/images/explosion/explosion2-37.png
+SHA-256-Digest: fb4zTSiF/Lh6wC9rrjAjIYGQdhzbxFHPJl3PkIsGfc0=
+
+Name: robocode/dialog/AboutBox.class
+SHA-256-Digest: ega7YgomiDV9056/d4nYyM1MD4GO6qTn3PIa2AEL2W8=
+
+Name: LoadImageApp.class
+SHA-256-Digest: MYQsgV6qGEcxBVpt6HnwOxjQOsIvXS3wUDecjeI7fhM=
+
+Name: robocode/dialog/NewBattleBattleFieldTab.class
+SHA-256-Digest: OPNy5mOFmjdeFQI05AXPz7v7BiGkt8bFZy3EP4mYFkg=
+
+Name: robocode/security/RobocodeSecurityManager.class
+SHA-256-Digest: dvX87s8Dy4Z0qItB72fwuR71NabrmdWGZ8kbSHgq1ws=
+
+Name: robocode/security/RobocodePermission.class
+SHA-256-Digest: nHDwVEiKI3+ryS0o9u1RidncWRyGANOFLyvSSByLVFs=
+
+Name: robocode/peer/robot/RobotFileSystemManager.class
+SHA-256-Digest: /lOnbbSHCvne6QSCkHp5G1KLHahM3LoDRbQbEsTovXk=
+
+Name: robocode/editor/CompilerProperties.class
+SHA-256-Digest: 3nLwp9qDbVDq4dx/PJ3WGXvIeq0E6eQqVdNSCAwXtXY=
+
+Name: resources/images/explosion/explosion2-68.png
+SHA-256-Digest: gAZgew6AW06x3P+zMwh4f4DbgFqqjf0Xh/SU3HdEA/o=
+
+Name: robocode/Robocode$1.class
+SHA-256-Digest: XMChTbjGKLzTrqD8y5eeQlMdkz7kPBvxsaHX7hElB5M=
+
+Name: robocode/repository/JarSpecification.class
+SHA-256-Digest: KN9+dadK2cBwdJR9EFrxCZWGT1Hn4hKd3Ib5qBKZEe8=
+
+Name: TestApplet.class
+SHA-256-Digest: nGZCZ/wbOx3ROqeqhbTSzG7OhcSwwqXIYC1WRq4Acsc=
+
+Name: resources/images/ground/blue_metal/blue_metal_2.png
+SHA-256-Digest: 09MGShWK/fgabShQnIH0zLHrxHw2DrDHCkDRbg7Q9FY=
+
+Name: robocode/io/RobocodeObjectInputStream.class
+SHA-256-Digest: 1MQ76AoziQlbvmf6bE0y5AbjMl41Cao2miVYHNie4aQ=
+
+Name: robocode/_Robot.class
+SHA-256-Digest: SIcM9vdGOilJKemab6Y/OHBjsl4CXb5SrmnYs6JfBaA=
+
+Name: robocode/editor/EditWindow$2.class
+SHA-256-Digest: coFVrf4Ovc25zsXOKFqf8UBJMOQH+mCQD1SovOQ9H2E=
+
+Name: robocode/editor/EditWindow$1.class
+SHA-256-Digest: 2dlXDY9DsTB4PHhsAk8DtqKqcGKWemyirOvoiwu5rYk=
+
+Name: resources/images/explosion/explosion2-36.png
+SHA-256-Digest: ROYaJ4mC3hxwREqZ0TbVqYiVFBN+60ymnvLkfVuxRRY=
+
+Name: robocode/editor/RobocodeViewFactory.class
+SHA-256-Digest: nzLv2Ah3w0lCX1HixB1/UAlF1CyGaG0M3CLJ5PvPHXo=
+
+Name: robocode/WinEvent.class
+SHA-256-Digest: eOXMEEv4oe1RYG4ZSqWvOIO70dm57QFucWN0qjhywpM=
+
+Name: robocode/battle/record/RobotRecord.class
+SHA-256-Digest: 3Z0VfPS3nRYTtUk/bYjMev0Sv+jl0/ZUwgoZPbs5oFE=
+
+Name: robocode/editor/WindowMenuItem.class
+SHA-256-Digest: kiORJRbA2umiFxQDfJE89kwJ5Phm0dgJ8XlrmBQjTOc=
+
+Name: resources/images/explosion/explosion2-31.png
+SHA-256-Digest: uX9sTyL+0I/5T3HukC8JUcB/Z0tt4yK141IjmXUBbBM=
+
+Name: robocode/sound/SoundCache.class
+SHA-256-Digest: ZTw5XQlZonLLdAj2+bGFXoOa+Q/jzJxehraC4G8OKC0=
+
+Name: robocode/battle/record/BulletRecord.class
+SHA-256-Digest: IV3NWYDgjUKU14w6ECXNxkkP5K9jQrs5o4fTW9NVY64=
+
+Name: robocode/packager/ClassAnalyzer.class
+SHA-256-Digest: Tx+SvUGWOQhweBcDvWBiswDp3hSQe/Ki9rHtNwtdEig=
+
+Name: robocode/dialog/PreferencesDevelopmentOptionsTab.class
+SHA-256-Digest: 8kkgvZE82QJfYMpugyHIYS2NiqFVClFdEwi/sBx+JfY=
+
+Name: robocode/dialog/WizardTabbedPane.class
+SHA-256-Digest: r1+Bm7fjZv59RrDcTi4yDLI1CiXiSycWoca1kRRYTNU=
+
+Name: robocode/control/RobotSpecification.class
+SHA-256-Digest: KvEWvZnAsDi/i4Qn4CVrKdw/MPFyleeFWtvw740LBb0=
+
+Name: robocode/AdvancedRobot.class
+SHA-256-Digest: VHYJBi6y8ORmuhDyUQNBNvlXr9rHlTNzRjs1LV2HNxw=
+
+Name: robocode/peer/robot/EventQueue.class
+SHA-256-Digest: ydIlj2MuyaqRaHsj8L9irst2+hWPCp07lFG5AKt+vdM=
+
+Name: resources/images/explosion/explosion1-5.png
+SHA-256-Digest: MY3pNvIdcxs/PDiyJjbmONmOfV0dImbjr0dr3mjBJag=
+
+Name: robocode/dialog/NewBattleBattleFieldTab$SizeButton.class
+SHA-256-Digest: HM7NbRLAbnWZPJNDba1gTtEhCeotnCn1rcOz+4ymZ08=
+
+Name: robocode/dialog/RobocodeFrame.class
+SHA-256-Digest: YQyWExbsrYmq+R88vFXxVCKeiiF74ljXMGRwUHd8xKQ=
+
+Name: robocode/editor/SegmentInputStream.class
+SHA-256-Digest: w+J2NhKe1JyKvlNVUXZFLJx8AJkwb9uH7b8NXVNgxbU=
+
+Name: robocode/BulletMissedEvent.class
+SHA-256-Digest: amS6b8/LhpSwwHW9eyqpBM39/0NytIjEJDzT5CVuB80=
+
+Name: robocode/dialog/PreferencesViewOptionsTab.class
+SHA-256-Digest: dqv6t1VMjT77KHvPuNIUS4tS1MG97cOV8aDTr/gxPQo=
+
+Name: resources/images/explosion/explosion2-11.png
+SHA-256-Digest: l2upnFBuzcmArzz9eLOaiZP6y2YAagJTPe4ANCL8kc8=
+
+Name: resources/images/explosion/explosion2-40.png
+SHA-256-Digest: tqR0+3CDjGetSqQKJvIiwrAsowyH8xm0hfLy9tvnoo0=
+
+Name: robocode/dialog/ConsoleDialog.class
+SHA-256-Digest: 68M7St81Tw6hJk5ytWSnuFspb1xt1UU3RzSgSghCDMc=
+
+Name: robocode/dialog/NewBattleDialog.class
+SHA-256-Digest: qZbKH9mUOcxqe4dLxzUiwwvJGTWp1nxW0cyC6UY9aFY=
+
+Name: robocode/battle/record/TurnRecord.class
+SHA-256-Digest: 3+T+6opT7dchJilsS/jQDrzHLe9cXT6DU79cUI9ScUQ=
+
+Name: robots/sample/RamFire.class
+SHA-256-Digest: oAAX8mps4G82sB0yy4NypBl+f1BfqwspMGtLHW5DaG8=
+
+Name: resources/images/explosion/explosion2-71.png
+SHA-256-Digest: 46bFitVWNXruM5r56iALHbEIT5NVAINt9XuUmqCljis=
+
+Name: resources/versions.txt
+SHA-256-Digest: RupZZAhdEx3zLCtaVatawehVi3G6H/Id65JyAMnGwI4=
+
+Name: robocode/RobocodeFileWriter.class
+SHA-256-Digest: GujA/+E6LY3PV9KwpNDVi6EafmWoTuo1V2NPOsIUD5o=
+
+Name: robocode/io/TeamMessageSizer.class
+SHA-256-Digest: 4rEzuuppzSM91YcxFkd6dN6+7djR3K6kQ9IxK6Rw8Io=
+
+Name: resources/images/explosion/explosion2-9.png
+SHA-256-Digest: rBwhyNprKWIHTT/5Kh+ZdEJ9cExFrmrQeTwoqsbBS5Y=
+
+Name: robocode/security/RobocodeClassLoader.class
+SHA-256-Digest: nWjeTCIjjkXyUdIBCN3AIP03T4gv702YiP2qP60uhTc=
+
+Name: robocode/dialog/AvailableRobotsPanel$AvailableRobotsModel.class
+SHA-256-Digest: MpcEtfiinmUsNgJdfynFBzMJb2rD07u5HEV7En8fKVE=
+
+Name: robocode/dialog/RobotDialog$2.class
+SHA-256-Digest: KM1ZRO9ZGmfqE7Yg3lXC6oIJsZerujrUEQpnVhlnun0=
+
+Name: robocode/dialog/RobocodeFrame$PauseResumeHandler.class
+SHA-256-Digest: ONlilbFvNwxBwOc3LHa728TDR5oIM7ZR1R+8CPxSN88=
+
+Name: resources/images/explosion/explosion2-2.png
+SHA-256-Digest: okykOOPcaU/TJGv5PrQHV/ZPVSIwbrRUBu1waf/8VLU=
+
+Name: resources/images/explosion/explosion2-5.png
+SHA-256-Digest: GBd1oWaGi5DPZpoEXv8pydz641GGZcUH6TBdP8nhHwk=
+
+Name: robocode/editor/RobocodeEditorMenuBar$1.class
+SHA-256-Digest: SHDRcoqwtLKmFsMOvk+H9M2rTt6SSKDz7XsC2VgK9X0=
+
+Name: resources/images/explosion/explosion2-39.png
+SHA-256-Digest: 4fArT/JRZEXB72f6NiKb3uAVV8fz4xZmoXPbUV0Udj8=
+
+Name: resources/images/explosion/explosion2-64.png
+SHA-256-Digest: AaR6l+6uu1I21f8M62/tfhUS5YpnPGt4Q4tt5e6x2XY=
+
+Name: resources/images/explosion/explosion2-44.png
+SHA-256-Digest: SErolR10aiVTxiGmYbmhur20kuA7Bgo2tFcYRcT0zYg=
+
+Name: resources/images/explosion/explosion2-17.png
+SHA-256-Digest: NHMZ5X+JyQSlYeFXGSG08U/DWOx962zrwcliubiNL6E=
+
+Name: robocode/peer/robot/RobotMessageManager.class
+SHA-256-Digest: YZIIV29jtVzKW97tuWtDYa+ODmGFDYu4GjyMH2xKawY=
+
+Name: robocode/util/GraphicsState.class
+SHA-256-Digest: b13WkL9fAK1DspWvLgckb+eFYba0XpQ7YU578oV/ayE=
+
+Name: robots/sample/SpinBot.class
+SHA-256-Digest: rpOjW6LDOIyLaI9SoD1dz/wjd+siC+CdcIa8RzUR7LY=
+
+Name: robocode/control/RobocodeListener.class
+SHA-256-Digest: bkqGCDBZ76zvhp0TQi7Zi52wls8mWwAEcXW15Xah0vs=
+
+Name: robocode/dialog/AvailableRobotsPanel.class
+SHA-256-Digest: 5TlLnUwms581EzOK9nnIeQFC70u/o6G/Y3VVGQfbs38=
+
+Name: robocode/battle/BattleResultsTableModel.class
+SHA-256-Digest: vpctjMoJCWNkTAmvmpQW4K5BRNjOwD3QNPv39iVlTII=
+
+Name: robocode/Rules.class
+SHA-256-Digest: dVN50posv/rX3sEZbkaVR8F0y8+188bhliAU5EdSPTU=
+
+Name: robocode/repository/FileSpecification.class
+SHA-256-Digest: +65EOaCk/SKiD5pZiLW3Q3UbOS6CxXo46vFcAwSdgo8=
+
+Name: resources/images/explosion/explosion2-12.png
+SHA-256-Digest: 9CZa9p8J8lgHGGkhye/PKUTW5nJqs2gt+3a3w9UYRSg=
+
+Name: robocode/packager/FilenamePanel.class
+SHA-256-Digest: q2KC1jDWs5DB5vAc19DmcHGLyoJAzvAHEF9H2y6uIjg=
+
+Name: robocode/editor/MoreWindowsDialog.class
+SHA-256-Digest: c2j/W0izRvpSmkod90H9rLHP4xlFQDg07luqGG90Sz8=
+
+Name: robocode/exception/DeathException.class
+SHA-256-Digest: 9Q6+MI/lSJV3nO0UWbWpudBTuNcVLSmh5Ab80zBiMYw=
+
+Name: resources/images/explosion/explosion2-23.png
+SHA-256-Digest: XCBLtb4mND3B0mujK8KXKMn8z6qHumrRe5qSXAELcw4=
+
+Name: robocode/packager/FilenamePanel$EventHandler.class
+SHA-256-Digest: 6cn2jpfPiBqmLSKBe/T7SqF4WMdXq3/hufcuINnRMWw=
+
+Name: robocode/editor/RobocodeCompilerFactory.class
+SHA-256-Digest: G4f2vHZZR/z6s7f7oKRveyZMGgvPkO3wVIT59k2Z0vs=
+
+Name: robocode/dialog/RobocodeMenuBar.class
+SHA-256-Digest: G8QmYLGFinYv6bUxl/ZDbqQASN292GiW3gOPO22bCR8=
+
+Name: resources/images/radar.png
+SHA-256-Digest: +LrF1GZqxuiREnYqS/iZS9f+NyrlHUUeF9sviEdl+iw=
+
+Name: robocode/manager/RobocodeManager$1.class
+SHA-256-Digest: KSb94x9A/qAFosSPUxgPsm9tZl5xffwKBjMMA/YSjTU=
+
+Name: robocode/peer/robot/RobotStatistics.class
+SHA-256-Digest: dCpMMFaCMJz42850Hl/eW5FXauoDPWhPgNHG2AiUHmI=
+
+Name: robocode/dialog/RobotSelectionPanel$RobotNameCellRenderer.class
+SHA-256-Digest: FHQys8VGw94aC2mcBTsh6iyAGrtBZkj2akDgrTENgaE=
+
+Name: robocode/battlefield/DefaultBattleField.class
+SHA-256-Digest: AEQXhrKAc/1GZpV4W6Zpba6OPFDWruzxg2HU4P7YdQw=
+
+Name: appletComponentArch/DynamicTreeApplet$1.class
+SHA-256-Digest: jkdgTPvOpVDFw7DODy/h4GJCJMelod/qiuBOgGDGelA=
+
+Name: robocode/manager/RobocodeProperties.class
+SHA-256-Digest: akWDh2QFa3Irynz9zqGD85MFnJSoq5tjaANRYgON98c=
+
+Name: resources/images/explosion/explosion2-14.png
+SHA-256-Digest: e+HDiKV6idr5Zvd7fAFpymrOTIo/AH3c1F365HHyvdQ=
+
+Name: robocode/dialog/TeamCreator.class
+SHA-256-Digest: hgoDrmPIr8rciWRRAg1VV2oR3ZukSMouX84QeJQvHZg=
+
+Name: robocode/dialog/PreferencesSoundOptionsTab.class
+SHA-256-Digest: ++rmJMgtX6YQHHKY8V7Ng7F6OxyIfAuqATun7wMjJBo=
+
+Name: resources/images/explosion/explosion2-3.png
+SHA-256-Digest: eyMMj5ieamgYhbvw3228aWVGs8i4ZHIeTOJQ4R8xZJs=
+
+Name: robocode/_AdvancedRadiansRobot.class
+SHA-256-Digest: XT1eGUU/EXYBiHaMV3XyQB066Z5AwASR+PM/JQ+Gm+Y=
+
+Name: resources/sounds/shellhit.wav
+SHA-256-Digest: ApXxPBZJ4x4c1YpyCDMuWLwf1qebxFpz4y6QPOOnbQY=
+
+Name: robocode/battleview/BattleView.class
+SHA-256-Digest: jmxkGjwc1SOldwDTlZevyEU/C+kZtBR8hWR7jYLjakE=
+
+Name: robocode/sound/SoundCache$ClipClones.class
+SHA-256-Digest: DUTGSUZZASFE1J1b2/SFibbJf+f8g2g0MmTjWF51PKI=
+
+Name: robocode/Robocode1$1.class
+SHA-256-Digest: 3Ga5UiW/aAyq+8DMeGRm9nTsh//Jg9tjh4XhbByO7u0=
+
+Name: robocode/Bullet.class
+SHA-256-Digest: X++a++V8MaL631McdEwZs6gT9Rv8J4UTy++3tDv5ELs=
+
+Name: robocode/util/Utils.class
+SHA-256-Digest: P0KviieKHqID7t5u4EYLqAMFPyVCpTKLQ/FG/M90Zsk=
+
+Name: robocode/peer/TeamPeer.class
+SHA-256-Digest: WBJLju/FPeVnc8HkL6e+x1Wl4dMhepaSz2YY0d/531Q=
+
+Name: robocode/editor/JavaDocument.class
+SHA-256-Digest: 4lrKIw9W5bftwa/yDrcU9rSoir91lsngkim1CPE43lk=
+
+Name: robocode/peer/BulletPeer.class
+SHA-256-Digest: z8jwCcKWyjPblnqJNCaDNtsby6cx8CHmUQHVgPkuG0E=
+
+Name: resources/images/explosion/explosion2-33.png
+SHA-256-Digest: XP+bsnYkUjFR3UNjgkpLQzP3Br287Kxx2FSDakxzxjI=
+
+Name: robocode/control/package.html
+SHA-256-Digest: q5k/CeZWkDjoBPJrMQsrUgCj1F5Bpj68dcQKSy7mQf4=
+
+Name: robocode/manager/RobocodeProperties$SortedProperties.class
+SHA-256-Digest: 5hLg2fke3ZJ1DqyfCzxcV+FaHiQO1ZtYPnxFSN36ps8=
+
+Name: robocode/editor/RobocodeCompiler.class
+SHA-256-Digest: VSSO5qTgTI82SHHszZCJVhj3LGv3PCJOA7pxI6IubO0=
+
+Name: robocode/exception/RobotException.class
+SHA-256-Digest: OMkrpRcrk+J5p0HdI/K1UWCEw2Ss+kxevdUSg3fCI1c=
+
+Name: LoadImageApp$1.class
+SHA-256-Digest: 8MU90pSVuvSLM/LtgMswXFXcjnP6541NTi6LetBPEYw=
+
+Name: RamFire.class
+SHA-256-Digest: Ofqfv45PYsoZheEzpvpXs1iHOmHzfgPBAfdMc8W4YlY=
+
+Name: resources/images/explosion/explosion2-22.png
+SHA-256-Digest: 39/Y/Aq3e1SCSG3LpITOlCOPsWK8jLfTYQJJrg/v/A8=
+
+Name: robocode/editor/RobocodeEditorKit.class
+SHA-256-Digest: /xFQJRtP4qTlaeuoPbbXA9WDvcVcjOpNox7OcEPCoLo=
+
+Name: robocode/dialog/ConsoleDialog$EventHandler.class
+SHA-256-Digest: b5epY8seKJcfuJQiRYy4UrtjUXeMPK4OgbqgSmkyNK0=
+
+Name: robocode/TeamRobot.class
+SHA-256-Digest: 28pum8xSzH/szatHmGnz95TbAStYoU8rnO64xx+zoD0=
+
+Name: robocode/dialog/RobocodeMenuBar$EventHandler.class
+SHA-256-Digest: dxtZ1Bi+WOFv2jIrDteW2axjoIuvRW91hTnQ4BiCTeQ=
+
+Name: robocode/editor/RobocodeView.class
+SHA-256-Digest: UgtX6LZmmLKblKbDkkWRu/On/+hZjE2x0kMZjJt5oEQ=
+
+Name: robocode/manager/WindowManager$2.class
+SHA-256-Digest: ewwB+G9M/QNDSl/E4vKYeILwMbheD7JatoQv/EZsVvg=
+
+Name: robocode/util/BoundingRectangle.class
+SHA-256-Digest: FsYyrzIjtVtE349NRTmj+nmm1X/XL0KWhnpU8H+AE80=
+
+Name: MyLoader.class
+SHA-256-Digest: /eBb7t1gBaOnvDyi4wpB1lht3KlGQclWFeg8VBGUM/4=
+
+Name: robocode/dialog/RobotSelectionPanel$2.class
+SHA-256-Digest: 63tkxMq/4ZR1OAtT0eDCRljGYRhfef95rKETKT6cIWs=
+
+Name: resources/images/explosion/explosion2-19.png
+SHA-256-Digest: yucaZ9dEuoxVXsjpB96AgNxCu40p8mRGB9PpIPLH1PY=
+
+Name: robocode/control/BattleSpecification.class
+SHA-256-Digest: GF0qRgqMyZLRcLB/zabhHymPSKYdWQI8H9cbkvIRPQI=
+
+Name: robocode/manager/BattleManager.class
+SHA-256-Digest: 0YXUHeJNV4Lp1IsrAJiGoFwRl0A2rziBcggwHBFfnkM=
+
+Name: robocode/render/ImageUtil.class
+SHA-256-Digest: /hfsvYMoYqf3iArZvXVHWxLveWKm7WA+hKjneWox5co=
+
+Name: robocode/dialog/RobotExtractor.class
+SHA-256-Digest: 4c0P99GKHsITJ4yF71w4GUthQuFubST1RR1aEU8hmI8=
+
+Name: robocode/manager/ThreadManager.class
+SHA-256-Digest: mRoS//UJpS2WbNIYq1JzrbDEwuMK2b7wA3oFyTLN/QY=
+
+Name: resources/images/explosion/explosion2-51.png
+SHA-256-Digest: duPtqdYHyFB63lxBviF2taqUr6OFgGIBSStGPuFiLpI=
+
+Name: resources/images/explosion/explosion2-18.png
+SHA-256-Digest: 02n35mwjeI1gM8jOCVYvBeGL/uoT6uCGmoWAWUKRgx4=
+
+Name: resources/images/ground/explode_debris.png
+SHA-256-Digest: rzqMmXH01foYYC7HNfNAdlbQuNXl+XgnKU5Y4U2jidM=
+
+Name: resources/images/ground/.cvsignore
+SHA-256-Digest: XuSRMQgwDF6Z6/d1UNQJatZtnyEVJpsUw9GVoNvehtc=
+
+Name: resources/images/ground/blue_metal/blue_metal_0.png
+SHA-256-Digest: biPcCfZ2IMMD8L0OCBXihSqhoAjKGZpvXZ6wSTNIYeY=
+
+Name: robocode/SkippedTurnEvent.class
+SHA-256-Digest: FmMU+qjLb1Emy012ztF+EubvakDTP/izEbWS6L5cbkg=
+
+Name: resources/images/explosion/explosion1-7.png
+SHA-256-Digest: yeCuO81kDLft8H/p0hZSmxK3t8Xn2emLBVEdQEsx6ns=
+
+Name: robocode/dialog/SplashScreen.class
+SHA-256-Digest: eBdgw0UaBeMOSY3Yw4elAaq8dFoD0EHYMFruQOFjmRQ=
+
+Name: robocode/dialog/RobotSelectionPanel$SelectedRobotsModel.class
+SHA-256-Digest: ZfboI1hIwXuzyn306oXHGkYPLmCd/kIcrg/7ex/tYfI=
+
+Name: resources/images/explosion/explosion1-13.png
+SHA-256-Digest: lKxSxOB6aYEdA9g9UOxwLiMXosKHAP4HPP799IyieIY=
+
+Name: appletComponentArch/DynamicTree.class
+SHA-256-Digest: qZGdgtg/Zyc5W2oxUP/EbAyhMXJZKriri+9NNRhcLng=
+
+Name: robocode/packager/ConfirmPanel.class
+SHA-256-Digest: jP85Sqnvd92JCYXW+PYfApIzm1Lb0Cc/tmMOW0WLrbA=
+
+Name: robocode/peer/robot/RobotOutputStream.class
+SHA-256-Digest: np2rNT6moTDyZDgnhE/goY5WoyDR7gveL1MFFaK/ur0=
+
+Name: robocode/dialog/ResultsTableCellRenderer.class
+SHA-256-Digest: AkOw1ahNsy++ekAMr9tEBRHGqOKcMylpAB7sxKxS914=
+
+Name: robocode/dialog/AvailableRobotsPanel$EventHandler.class
+SHA-256-Digest: /KJ5ozxKckk6bEPwG/qylYnRvAr4IFB/C0+ZIJVmgtQ=
+
+Name: robocode/control/RobotResults.class
+SHA-256-Digest: TiHhVc4/quZcyCvtwibUt8xaM5XzGf9gKD0VMTcnsc4=
+
+Name: robocode/control/BattlefieldSpecification.class
+SHA-256-Digest: W6FXBXvOv+7izWFHYG+hP2Sd/oVATG2iXrD1aVL/3/M=
+
+Name: robocode/dialog/ResultsDialog.class
+SHA-256-Digest: DG0q63RDVZbS1h4QmlcKe44ckTEh3Fz37MR+30lPOHQ=
+
+Name: robocode/editor/CompilerPreferencesDialog$EventHandler.class
+SHA-256-Digest: UsSTt/EV10JM7nB+7NfKccEme6lR9qNgixnsjhhvXWc=
+
+Name: robocode/peer/robot/RobotThreadManager.class
+SHA-256-Digest: 9rUSMqZ2T9RP/vam2+j8yL8ePOfZ1OVvpywK0x7WeAE=
+
+Name: robocode/dialog/RankingDialog$1.class
+SHA-256-Digest: uadBY9iAb2rvi8iRDfQkGghiLtqj41WOGGP3nZnqZMo=
+
+Name: robocode/dialog/SplashScreen$2.class
+SHA-256-Digest: bej1qouyD8kW1jUrIgplS08xBu0kYPdvUdufOkWsx+4=
+
+Name: resources/images/explosion/explosion2-35.png
+SHA-256-Digest: z1GGcGgTJkry2hDavTyxuEQ8ZOwtx+d9DjWJJGHB1tk=
+
+Name: robocode/manager/RobotRepositoryManager.class
+SHA-256-Digest: tF4FCCc1ufoiGhw/Azo3rY2Y0hftmQgrppZO/E6NZqQ=
+
+Name: robocode/peer/RobotPeer.class
+SHA-256-Digest: sHXgQhGiVO0AqoZFd3wU01mcG1MB7orSLVRAi2bbnwk=
+
+Name: robocode/manager/ImageManager.class
+SHA-256-Digest: tnvGM/JXhYCH6kr+lXGsWLJv9wlLYRzCIN3mvHLEDvs=
+
+Name: robots/sampleteam/MyFirstLeader.class
+SHA-256-Digest: ckmGuqaRLYDVYeYBkq2amDU7nJJu4TdOcxAQpWVprqw=
+
+Name: robocode/dialog/ConsoleScrollPane$StreamReader.class
+SHA-256-Digest: olk2E+MgV1yasUvySqrcGaPOvI/MKIFHSc9PvmyBAgk=
+
+Name: robots/sample/MyFirstRobot.class
+SHA-256-Digest: W1IiqysUVa1+ur7SJzgc+k6qc71jQ1IZAMYXUIW33VE=
+
+Name: resources/sounds/zap.wav
+SHA-256-Digest: v3fiCgEdi7k2N6LsJ3qQTVcA3/7dWnjbYBwAhs88+W4=
+
+Name: resources/images/explosion/explosion2-34.png
+SHA-256-Digest: rt4QNI6TY8vSTvvEWKsgWu82ptJmYdV44aISbQGNqb0=
+
+Name: robocode/repository/Repository.class
+SHA-256-Digest: hMNOyinnSZoKFRB70XzhCJRKFTjpXKZtHaJ6r7qUi8M=
+
+Name: robocode/security/SecureInputStream.class
+SHA-256-Digest: m4pBdtlP/QDqjk9hQHpEbO4ZGkydtv3LQyVwRDaj3fg=
+
+Name: robocode/peer/robot/NameStuff.jpage
+SHA-256-Digest: KWEiWORMnIHs/Ho8Ytx0SFgkk6ByjOV7LFhYMuPZNfo=
+
+Name: robocode/text/LimitedClassnameDocument.class
+SHA-256-Digest: JuF0Lti3n3LWME1FMIqukfNol9hb2DLqUEDWrU6gp1w=
+
+Name: resources/images/explosion/explosion2-45.png
+SHA-256-Digest: CqcJNyiEUlH4Gi+3CjSimeIZHiRIBVPR3kIHP7PH5Ds=
+
+Name: robocode/dialog/WindowPositionManager.class
+SHA-256-Digest: kcPDkioe4KNWykU33kIPVKgmHv6hQbD9RffKix4XpL0=
+
+Name: resources/images/explosion/explosion2-69.png
+SHA-256-Digest: 0RtglWoq9m9hr7AEWtLbjN5lpEjNc94CUG8Tm+UH7Do=
+
+Name: robots/sampleteam/Point.class
+SHA-256-Digest: ZJTlCNuvIopxl9CE32hom4rb8ex3BykvajJ/STHMIa8=
+
+Name: resources/images/explosion/explosion2-58.png
+SHA-256-Digest: KY0xQFZEEmhzw79LS0B5TCAjI460bGHjATvJ5v98COw=
+
+Name: robocode/dialog/AvailableRobotsPanel$2.class
+SHA-256-Digest: rFYjQrgvyr+yolpPHhkdw81dAqaU3c4a94cz6W0nBDs=
+
+Name: robocode/dialog/RobotDescriptionPanel.class
+SHA-256-Digest: JdD2cM/WhGVyCPqumVtAfXBFGjISPSO2ZF6wPcMGjb4=
+
+Name: robocode/packager/PackagerOptionsPanel.class
+SHA-256-Digest: HzogGHoMTsFsdZRdKmDTHppONnUdNCxLASVedOSU0gE=
+
+Name: resources/images/explosion/explosion2-47.png
+SHA-256-Digest: 1HhvnZR03S1Lz+maWGsBFDB+Ih3zdZZl51H2n3v30M0=
+
+Name: robots/sample/Walls.class
+SHA-256-Digest: YDpZei4tCjyTOHmdfW9JtEUN28nTuPJOoDY5VL6dArw=
+
+Name: robocode/dialog/PreferencesCommonOptionsTab.class
+SHA-256-Digest: /twwkHaTDPCH2xtHfYNv3cHNrvt9BFqKT83kpqF9akc=
+
+Name: robocode/packager/RobotPackager$EventHandler.class
+SHA-256-Digest: czijuueVAq+Sfaq3igKtUlZIe1oJqcefsu0tqTOn1cM=
+
+Name: robocode/manager/RobocodeManager.class
+SHA-256-Digest: x5kwimkwOkFzfwukihB0P+k1qelAKlbPCXL5j9J8h8U=
+
+Name: resources/images/explosion/explosion2-10.png
+SHA-256-Digest: NqFZC6bwiOLOXBkeFSN2OpycKyr1y99LmKqfWLwep2w=
+
+Name: resources/images/explosion/explosion2-25.png
+SHA-256-Digest: 5R7VRZFAbCntzjZdjyZ+tfwtdgjmaLxmitWvpYKIw6A=
+
+Name: robocode/manager/CpuManager.class
+SHA-256-Digest: kRxwWsPUSNAGujAzhng52ybQdpEIBvv7X18PicnSl24=
+
+Name: robocode/peer/ContestantPeer.class
+SHA-256-Digest: m2jYEQg0IMx/VSwOWVywnFZksQgu8MmNZwcgFOfmc/U=
+
+Name: robocode/control/RobocodeEngine.class
+SHA-256-Digest: 6nO9Qs0mYdQE/j9b2Hi++uGzVO3BVsf43GWEHhrk6LM=
+
+Name: robocode/battleview/MirroredGraphics.class
+SHA-256-Digest: 3CQ0HgvL75zJt1FiN92j9ZathA31TjdIpYUB5goyGy0=
+
+Name: robocode/dialog/NewBattleRulesTab.class
+SHA-256-Digest: DO6rMLim9oJTK7gqVtqNesBiDWkQcZc7ONYs0GN3pBQ=
+
+Name: resources/images/ground/blue_metal/blue_metal_3.png
+SHA-256-Digest: 9qnQ/gOy6QWaXi8zBLu5fQBRnA6lNx68P4CkJOxVyBM=
+
+Name: resources/images/explosion/explosion2-70.png
+SHA-256-Digest: i7+LbEidUKpVlzf/kkOhyhBTIpZxH9leMUT+++Zzh30=
+
+Name: resources/sounds/explode.wav
+SHA-256-Digest: FQJ3OmjMji0MPXR1wGriseybfCrVuAT+DJYDK9KbbuY=
+
+Name: robocode/packager/FilenamePanel$1.class
+SHA-256-Digest: 3AivP3DsAl4EHOU299pHwfgiAwALm1MY6ADm+Dsb0Mc=
+
+Name: robocode/sound/SoundManager.class
+SHA-256-Digest: FsryeovTyQmNnf6Abdk23uCNOGInrLY40jL1zlCKIyo=
+
+Name: resources/images/explosion/explosion1-10.png
+SHA-256-Digest: zRE6+RACRkKH6Hkp7XA/vnrCdPWvdm9VABoshPkrFEM=
+
+Name: robocode/packager/PackagerOptionsPanel$EventHandler.class
+SHA-256-Digest: BIUpVTf67QV8cDaGlMbK4hbWE5NaB2KxRShYiVm/JBs=
+
+Name: resources/images/explosion/explosion1-16.png
+SHA-256-Digest: FsL9U0lAM+LeuJhm8vZ/byOPQaogexFIBzgGwsU/gvA=
+
+Name: resources/images/explosion/explosion2-50.png
+SHA-256-Digest: /icLQ40AqONvc2mCZw1wfy6JNUgj8SS0PSZcbq4dwMk=
+
+Name: robocode/dialog/RobotSelectionPanel$EventHandler.class
+SHA-256-Digest: yO9Epo6+ANX4s7DyrIoGxlou8nOUglYy+Yml+vY2i2E=
+
+Name: robocode/dialog/PreferencesSoundOptionsTab$EventHandler.class
+SHA-256-Digest: ni1i306YNyPCFKeQ5zSe1DnFmQwjyc5YsKGRPvJOyvg=
+
+Name: robocode/DynamicTree.class
+SHA-256-Digest: oJF8XMq6RloPjFpYEdiGHi3BR+w6dpCtKOvwZbGf6Yk=
+
+Name: robocode/manager/ImageManager$RenderCache.class
+SHA-256-Digest: OmwJ18ALzFHcup2A5MvQKAmEM2I7hgWGQItg147KoWA=
+
+Name: resources/images/ground/blue_metal/blue_metal_4.png
+SHA-256-Digest: +QEYzQvl//z+8DAZ7JHFbqASz6OfHcoYZasTN998Cdo=
+
+Name: resources/images/explosion/explosion1-9.png
+SHA-256-Digest: TGt+MjDqF1m+r6F5RdAR9slGz8dTHu90K0If6KjeQ+g=
+
+Name: robocode/dialog/WizardTabbedPane$EventHandler.class
+SHA-256-Digest: 3QCQMhYZbPTLOyAVJ82YlUndjQsYqqDjfRc24Tcv8BA=
+
+Name: robots/robot.database
+SHA-256-Digest: duAQ0DnOsAjawev2TLCNcgMQQgADTbNL077zejaAh4A=
+
+Name: resources/images/explosion/explosion2-53.png
+SHA-256-Digest: hJsSE1XuXIzviKEB9EVlVhtLI9fSfSDKeMzz6B4J7Os=
+
+Name: resources/images/explosion/explosion2-48.png
+SHA-256-Digest: DxlsgAfjHvHdCdF/9pptaIm1v7+Me9U7TTF8D7HVavU=
+
+Name: resources/images/ground/blue_metal/blue_metal_1.png
+SHA-256-Digest: SdRf8I8/uaLH41vLwTEKe94iRMMwhjcSBd9Bbz1HNxI=
+
+Name: robocode/repository/FileSpecificationDatabase.class
+SHA-256-Digest: TvhlBz4x/L9veTBEgMW5avwYVlKyWKuDbkpROsARfqY=
+
+Name: resources/images/explosion/explosion2-59.png
+SHA-256-Digest: XcHihVJgXGajaXu8oxla5jM9c51ozV1jBj4VavZd25Q=
+
+Name: robocode/GunTurnCompleteCondition.class
+SHA-256-Digest: UMuF6oQVrZcpR4nt1TXZJnDomIsU2jxDt8FUmW3ESxU=
+
+Name: robocode/render/RenderObject.class
+SHA-256-Digest: 5TPwIvb6V6iVLaikPNcqxQV+9kUbQTOsrpiZghHdxLg=
+
+Name: resources/images/explosion/explosion2-66.png
+SHA-256-Digest: vVR861G0r2Wo2fb10e+b4FWDcLYexdJXOuSBgOcd2jI=
+
+Name: robocode/Droid.class
+SHA-256-Digest: x6tYynI9auEVgpT5FZOoz5lWQ99joROvegEZO61w7pk=
+
+Name: robocode/text/StringUtil.class
+SHA-256-Digest: /vgWIrB1mP/2CTYGWO5EeOPu2DLx/M7mEKQS9s5YKl4=
+
+Name: robocode/dialog/PreferencesDialog.class
+SHA-256-Digest: vw47raeYzZ+8227pZXMqWUbYxHeOJNSJNWj+0o/42B4=
+
+Name: robocode/Event.class
+SHA-256-Digest: CnJpEwtQ6kgblJv/MTKIQydR0qANg8McPn5fyvG6YWU=
+
+Name: robots/sample/Crazy.class
+SHA-256-Digest: ANtYiZSMLFaSMybY6ixO6tUdJv6p09fD2MFf9SrO0hU=
+
+Name: robocode/dialog/RobocodeFrame$EventHandler.class
+SHA-256-Digest: VrP6qA7G4tQKXiUv4Orr7tL397dEXGL33iUQWb4lWQo=
+
+Name: resources/images/explosion/explosion2-26.png
+SHA-256-Digest: GDFUX/uJnH4cZAoBatZVH9laj74pBpvSrI/ph9XptH0=
+
+Name: resources/images/explosion/explosion2-4.png
+SHA-256-Digest: r+E8F6+NLGH5DzT5wODzqjEckfzbncHwx+en+0b0KSY=
+
+Name: robocode/io/Logger.class
+SHA-256-Digest: fYoxJTwvKN+z+JXNaz3BAFUr3Cp4dab9aB2ZwHWE00A=
+
+Name: robocode/battle/Battle$1.class
+SHA-256-Digest: 0MPOI3Q5yD1SRpYPXy9MAF6OP+vw5Tfl0B3ryVwCGL8=
+
+Name: resources/images/explosion/explosion1-17.png
+SHA-256-Digest: YK/8qzmeIdvf1+jwBZcpFn3Fb1FITSv0jgkCLm5q4R0=
+
+Name: robocode/manager/WindowManager.class
+SHA-256-Digest: PoqfioYaQOeIazDfXmKhE/jQFszSbnKopZrxSKVxBCk=
+
+Name: resources/images/explosion/explosion1-3.png
+SHA-256-Digest: nk1O+g6fptUGTih2IQUr4SFb2oQ6w6la+43gzUqKxCY=
+
+Name: robocode/dialog/RobotButton.class
+SHA-256-Digest: emcK62XQ/PUcZzxWY67l6m5ZB7TAKonSDHU3kYmcn5w=
+
+Name: resources/images/explosion/explosion1-14.png
+SHA-256-Digest: UyYzcEs1GgsLvy9ZSEDVzWw0+CXZBJFScjX3JSL/vpg=
+
+Name: resources/images/explosion/explosion2-21.png
+SHA-256-Digest: 2SSDZHESI7GpAtK3uDxs27CJJWvlpNHvpaS6sJ5+uMs=
+
+Name: robocode/packager/PackagerOptionsPanel$1.class
+SHA-256-Digest: vD/OY3MW4SploaLeaSrWn/nN6Pue/AgdAQFNX6SkinM=
+
+Name: robocode/battle/record/RoundRecord.class
+SHA-256-Digest: cFmBbcIPfjTxf07IZwxVzni2BJBoLjUPCwj86asHCGg=
+
+Name: robocode/exception/EventInterruptedException.class
+SHA-256-Digest: 5yW6MAvUdmv/fNW+cgOyKwVY2TLMasyH5CCcYbC0MtU=
+
+Name: resources/images/explosion/explosion1-15.png
+SHA-256-Digest: LGeg1qXy1D9C/65kHcv00McZh6yMc8EgSYyaZbP/II4=
+
+Name: robocode/util/package.html
+SHA-256-Digest: Ch0smOZ5aibwYjFamlS7UA6a/DPFWPCup9NbIVdSY80=
+
+Name: robocode/packager/ConfirmPanel$EventHandler.class
+SHA-256-Digest: YXvsAsmYXO2Pbo0O/13BEp70cA3e5BUdAuNsxAd6lBI=
+
+Name: robots/sample/Target$1.class
+SHA-256-Digest: uJFw5Y7a7f+T2NHzsBvQgx9e1k2geDHxk068LFpQFzA=
+
+Name: robocode/DynamicTreePanel.class
+SHA-256-Digest: 1/33zIF1J4lwUStuT+oLvFeSy53BxIWcyKlH0bnhNjU=
+
+Name: resources/images/explosion/explosion2-57.png
+SHA-256-Digest: LA0zTeP0g9ELYL7ZVui1KlvE6vURWrnZJZCN4p96KU4=
+
+Name: robocode/packager/FilenamePanel$2.class
+SHA-256-Digest: utt4QaER8+uPGRY3NNbfvDOys7qSZ1xiCl7htngJpOw=
+
+Name: robocode/BulletHitBulletEvent.class
+SHA-256-Digest: a5O1LstvUlYXx9xi+BNovJx2BFCz+DkFmpQ5euA2HDs=
+
+Name: robocode/manager/RobocodeProperties$PropertyListener.class
+SHA-256-Digest: 7qcM/u3oAYfzg9KJWI+21NRjgy67JLgXiFapnE2ttw4=
+
+Name: robocode/dialog/WizardController$EventHandler.class
+SHA-256-Digest: wFngOTAF8WLzM4BXivEUmsm0sn/ppMZDI8JdX+rPh9w=
+
+Name: robocode/dialog/AboutBox$2.class
+SHA-256-Digest: zHO46hDp2sTYca2WQ40P5mSTeve4e928yaIhitWYJ/s=
+
+Name: .classpath
+SHA-256-Digest: Xu998vmqDKW+0M3g4WnoCffxra/LVV8xhLbTtElrJ2c=
+
+Name: robots/sample/Corners.class
+SHA-256-Digest: 3XwY5I7jjBMhFy/CGb0JX2tfpz9VC76J1MGoCuAMxuE=
+
+Name: resources/images/explosion/explosion2-49.png
+SHA-256-Digest: tper3egFWDmIOOUUHDSy3nl8SVxNGRRWfAENF3eLcIg=
+
+Name: robocode/package.html
+SHA-256-Digest: B5wfB/FgZplka4yXxDQsb2NXUqPtJU3HgQmyG6sg6r4=
+
+Name: resources/images/explosion/explosion2-16.png
+SHA-256-Digest: gs6NIrRCxq5VERuCE+IAjL4VpekbRAQY119lNi5+jDg=
+
+Name: robocode/peer/TeamStatistics.class
+SHA-256-Digest: wbscR6Y3VsYG4KIugF0TFfkNTvN9ecqaTIUK+63jQB4=
+
+Name: robocode/MoveCompleteCondition.class
+SHA-256-Digest: +8ewW/URpoLoeY0sly+RtzZ2XmhZdxzBbAzblu0MHmM=
+
+Name: resources/images/explosion/explosion2-56.png
+SHA-256-Digest: B2lO/Uz/Lsxc63jie7s9LgV+uwWgBnXbkqogXQhYto8=
+
+Name: resources/images/explosion/explosion2-43.png
+SHA-256-Digest: soWHsujw5mtZbJAUKrkaWh4972Q7buJOS+YYwzs8VSo=
+
+Name: resources/images/explosion/explosion1-2.png
+SHA-256-Digest: yPk4GOoBeGfAh+n505qEMXulbbQe9yXOXmICCn1o4uc=
+
+Name: battle
+SHA-256-Digest: M/pFFfhEKSITgRpwpgVdtLicghWJnXpM/SV6PtAfEXI=
+
+Name: robocode/Robocode1.class
+SHA-256-Digest: 8UPbk1a4kbTaphtTLCCZSPowTdT6e07td5dx/V8vdjE=
+
+Name: robocode/repository/RobotSpecification.class
+SHA-256-Digest: MSIlimvh53R6CiOQiVcx9B77CcVNyegZR3Aku4mTGKk=
+
+Name: resources/images/explosion/explosion2-54.png
+SHA-256-Digest: rYm3UdE/XX/oUZiaWzngGThTotu/FFDtL9xAkJbpT0w=
+
+Name: robocode/HitRobotEvent.class
+SHA-256-Digest: yUp9g9py5bs4C1J69VU5bC4s6fVojopZg/lCHRqFi+s=
+
+Name: robocode/manager/BattleManager$1.class
+SHA-256-Digest: xXcIvMRq6h8y82sn+OuT9oCIjiFCjJCbi6klErZ8c4w=
+
+Name: robocode/dialog/RobotDescriptionPanel$EventManager.class
+SHA-256-Digest: pIn61Q4jjLXxxZJWIPkoCLlGLk0BkOpfSKwQy7Ur6Lc=
+
+Name: robocode/editor/RobocodeEditor$1.class
+SHA-256-Digest: jQHSv+vEEL+NqCVj//9y9FIhWUr3MOOMAcLBepXCdd8=
+
+Name: robots/sampleteam/RobotColors.class
+SHA-256-Digest: IorJdBf2wPDwnc4vHL4qIvrfCuzMGTsrp09ByOgZnnk=
+
+Name: robocode/battlefield/BattleField.class
+SHA-256-Digest: MD5v/qZVn7nPVr9NGIIVktzYqiCXgHpx/t7OFM6Canw=
+
+Name: robocode/dialog/WizardListener.class
+SHA-256-Digest: i12Y1zKBOgelah8/rgjbuBjdmubGGKlyn+uWMxptUFs=
+
+Name: robocode/CustomEvent.class
+SHA-256-Digest: iUsvP0lqRCQcVRgc8HHaaSDxZ81aY9GU+ZNqC96ZM9I=
+
+Name: robocode/RobocodeFileOutputStream.class
+SHA-256-Digest: iuKMDb5NHdXHvUJIsM2jbmWBfK2ajLMKQQuV8W+lPD8=
+
+Name: resources/images/.cvsignore
+SHA-256-Digest: XuSRMQgwDF6Z6/d1UNQJatZtnyEVJpsUw9GVoNvehtc=
+
+Name: robocode/HitByBulletEvent.class
+SHA-256-Digest: 2zequrtu8s579RKC6m4OMynN528ns6kPF2/KzaNYvmQ=
+
+Name: robocode/peer/ExplosionPeer.class
+SHA-256-Digest: ZYNkPQkG1FkRDP1q9PHx8AJDltSMW5a9TjbGEbwQxfQ=
+
+Name: robocode/dialog/WindowUtil.class
+SHA-256-Digest: f733EYPHgB313xHVsR98ppMTCejWS/BSbsgLkeKc57Q=
+
+Name: robocode/BulletHitEvent.class
+SHA-256-Digest: oT1RZlUyY7GytpchKc1qxcBLFdmN7xdzVVfXWy4GiVc=
+
+Name: robocode/editor/CompilerPreferencesDialog.class
+SHA-256-Digest: mZc9JXuJqdNTzgZ+nkfEj8MagsXrMVspcbeAVxq6fHQ=
+
+Name: robocode/io/BufferedPipedInputStream.class
+SHA-256-Digest: Pb9htSeg0R3e3y/OdlXrcxdGkVdGwzIyOjzat+vVu8c=
+
+Name: robocode/repository/TeamSpecification.class
+SHA-256-Digest: yhndGFT/SkQN67mmlbI2/M3FrcxNia37Asixx/X55ro=
+
+Name: robocode/RobotDeathEvent.class
+SHA-256-Digest: HPUAzr8X26LeV6OtR806OY7tUbGwkdc0A420ARD+wxo=
+
+Name: appletComponentArch/DynamicTree$MyTreeModelListener.class
+SHA-256-Digest: kDki6IiShD+Svbn5BFUp3FS6pbLS/9N1n+7NV797lh4=
+
+Name: robocode/dialog/PreferencesDevelopmentOptionsTab$EventHandler.cl
+ ass
+SHA-256-Digest: 8aBDvFWx1pwgIc4Pmo5r3BRlH+ktN7xlrTLQzRYSMzs=
+
+Name: robots/sample/Target.class
+SHA-256-Digest: CVy9kQlC4i3/k/DD00rtB9xR9iqv5jxvvmDs7HlJJ9o=
+
+Name: robocode/editor/RobocodeEditor$ReplaceAction.class
+SHA-256-Digest: W2Tv4tdrBBiZBzrYgiH9oXozff9yB6v/uPUIda0bZR4=
+
+Name: resources/images/explosion/explosion2-27.png
+SHA-256-Digest: /w+bpmwdBC6pBHcoUx3okjSIwkuSDpCk06nZ/mesmXI=
+
+Name: robocode/peer/robot/RobotClassManager.class
+SHA-256-Digest: LkrYOSzUBhfm+wrkUlf3s3Xmt1kcDIFNx2NOPJdjaR8=
+
+Name: robocode/DynamicTreeApplet.class
+SHA-256-Digest: E8XE11aApGTIH8GR5YW6zB/+N9MsO5SAWH0J+kGOqhc=
+
+Name: robocode/util/LogUtil.class
+SHA-256-Digest: SsKFjtcwyR0JBVnZNz9qDDus7oYQtEiU1OEoxBi13SA=
+
+Name: robocode/dialog/ConsoleScrollPane$1.class
+SHA-256-Digest: v5ngdDaamX/Spgni1eOnGVhqxMwrZkzK7FyvRkKILxw=
+
+Name: robocode/TurnCompleteCondition.class
+SHA-256-Digest: OhDzw3nsPO60fFnlu5dJfKcpzoNKwrAzOV6lEOc7SiU=
+
+Name: robocode/battle/BattleProperties.class
+SHA-256-Digest: MQZ1xrwCuiz2xJetLysCGdWSAZz7nNr5JPApMhviRIQ=
+
+Name: resources/images/explosion/explosion2-7.png
+SHA-256-Digest: wgQcpGh+isur5oZHsy9rbxM4tQEKeLTjMGZnM2CB+nw=
+
+Name: resources/images/body.png
+SHA-256-Digest: ar+Ysy+MyoNRzzhyeyAHtxoEY/6cT5xH4GtKmbUZh7Q=
+
+Name: robocode/dialog/RobotSelectionPanel.class
+SHA-256-Digest: QyHqY2t/TO8sk0/BuZ+ho55h+9pWvff/QHge4BC8kdQ=
+
+Name: robocode/manager/RobotDialogManager.class
+SHA-256-Digest: cN3rTEfKBAtTBPtlzmsfDttxxYOyMiCTDRtJWzUCPs4=
+
+Name: robocode/dialog/RobocodeFrame$1.class
+SHA-256-Digest: i/5cgRC/PCxoSAwDoQ8jeUxCl9Lx6cJ74yu+q3pS3oM=
+
+Name: resources/images/explosion/explosion2-67.png
+SHA-256-Digest: S+WT1oYDC1rZT674HgmQKoCcEf7pScsbM1MUGsOJ/n4=
+
+Name: robocode/manager/VersionManager.class
+SHA-256-Digest: C37jWZuT7ZnlXVuYKpGh7hEo4RSjxLEOe7BiEQKCOFw=
+
+Name: resources/images/explosion/explosion2-13.png
+SHA-256-Digest: k/r1YF4wdxzpj4A8P+jONJzpCCMOwqY2PnuoTA5ta3c=
+
+Name: robocode/dialog/WizardController.class
+SHA-256-Digest: dnbaaADvOp+xNnDIGX26yPfuk60eFt06J3LqhJKGuTM=
+
+Name: resources/images/explosion/explosion2-28.png
+SHA-256-Digest: iWKrr+RjsQntVPAzKBOKcF98rjgLZa1mFGYgoTIBnzY=
+
+Name: resources/images/explosion/explosion2-32.png
+SHA-256-Digest: J2l5ja5PQcgLP3OjmhqK4FGJXhiVawTJ8qP9LRp9oCg=
+
+Name: robocode/editor/RobocodeEditor$2.class
+SHA-256-Digest: 5e5VikPpedHJPUvLQcHTFpWYeMGTJT0A3Fyo8v+vvhM=
+
+Name: robocode/editor/RobocodeEditorMenuBar$EventHandler.class
+SHA-256-Digest: uC4TvNTFj/Zz2Yv2zGU8DbZ66tWS0Qsn06/D35kxO2M=
+
+Name: robots/sample/TrackFire.class
+SHA-256-Digest: pryCcfoKoDEQB8Zm8/U4sqNCZQgpZOeZPJ+lLlcywAg=
+
+Name: appletComponentArch/DynamicTreePanel.class
+SHA-256-Digest: 6Wh7lArwmLcGykTh0aDJSyLDAfjgu9V12VhXh+VwqSo=
+
+Name: robocode/dialog/RankingDialog$2.class
+SHA-256-Digest: 2NyhH4ip/lD5YJxzdWooLeBzbsSscGImYi7TEJKX0ss=
+
+Name: robocode/dialog/WizardCardPanel$EventHandler.class
+SHA-256-Digest: lmrzEPUn0UIA6NvarU1ycxp6FgfnNm8zc0yJFhNl3rY=
+
+Name: robocode/io/FileTypeFilter.class
+SHA-256-Digest: 1iQ88LERIC2FLqJkVcD6OlS4HWQM/5CXbrRnIaf3P/E=
+
+Name: resources/images/explosion/explosion2-63.png
+SHA-256-Digest: PhFKHbN1lFy8h4Gb9KmE1SpjIt0JwC6/mjc6rsVVQkw=
+
+Name: robocode/editor/RobocodeEditorMenuBar.class
+SHA-256-Digest: 4bzlCkqffb8dECgkYvlcRv2JjzfGFCn2+SinJf0fmWM=
+
+Name: robocode/manager/BrowserManager.class
+SHA-256-Digest: tZrDiKlyQ4UOs/RgAgRFCWh3XANp8AG9swIAMGxmiqI=
+
+Name: resources/images/explosion/explosion2-30.png
+SHA-256-Digest: UHyBW29dxnvAS1kI/VqLh1i/K8pAOgbf+WLr252wjNI=
+
+Name: resources/images/explosion/explosion2-52.png
+SHA-256-Digest: c5OXAncCToYs/t+VQzhxEQFFX4OGtfrGjUNnFVGotUM=
+
+Name: robocode/ScannedRobotEvent.class
+SHA-256-Digest: Gm9G9WxdH5RKiq81tb3asGXmhXBPO/uut8XVG3dPKxs=
+
+Name: robocode/dialog/TeamCreatorOptionsPanel.class
+SHA-256-Digest: zydUHEZ0MBQssjKEmXWAHrF+Pzfz70PWvnvJOQUZYkQ=
+
+Name: robocode/editor/EditWindow.class
+SHA-256-Digest: FRoS3VTSSq4W0ImeYagoG9xwbzMvf9vEHapv2NV1qfY=
+
+Name: robocode/render/RobocodeLogo.class
+SHA-256-Digest: 3DphxSpm1MRlVuniUtfUv7SBBlNKkSwCMSkZKpMU174=
+
+Name: robocode/peer/robot/EventManager.class
+SHA-256-Digest: wGxP9ChlbgFJ1ppwnsF/8DcA9YVlCz6+iD1Dg57+tEQ=
+
+Name: robocode/editor/RobocodeEditor$EventHandler.class
+SHA-256-Digest: uYgklIOdFODPFHq2/Co816ODnt5e0InVgE4kmfiFQUk=
+
+Name: robocode/peer/ContestantStatistics.class
+SHA-256-Digest: y+OH5RLP2rGyx/XemkGnBDZA+CBfHiLg+N5ePjDa80E=
+
+Name: Sample.class
+SHA-256-Digest: 40yoN0n2juAmzszOjliaqPK/KpqVVbSGyWG4OuWZUus=
+
+Name: robocode/security/RobocodeSecurityPolicy.class
+SHA-256-Digest: OTh3EG6zIxvtjkRnuDLnxsd1jfhc5+kEpnUWJV0mp14=
+
+Name: robocode/dialog/RobotDialog$1.class
+SHA-256-Digest: kbAopBuOVWBpVIdVil90Y/X4QodP3X3F17IDgCvk1RU=
+
+Name: robocode/battle/record/BattleRecord.class
+SHA-256-Digest: BsKt6FMIMTJzXNn8r4ctJbvDpyvXpaHAbuyjpu9u6ZY=
+
+Name: resources/icons/robocode-icon.png
+SHA-256-Digest: 6MQrD8O171PSRxALQ6HE8fu/4TWEghuSA8/GaTQYrwg=
+
+Name: resources/images/explosion/explosion2-29.png
+SHA-256-Digest: YtGUowZbJVZO7R5e722D8NMfYcxxkPLH0ngfLD0rCrc=
+
+Name: robocode/dialog/TeamCreator$EventHandler.class
+SHA-256-Digest: iQRxd6MaiO5OWeTAdmSCS+68XVcHxwD7t1riL42etIA=
+
+Name: robocode/dialog/AvailableRobotsPanel$1.class
+SHA-256-Digest: 2V+0t2vb4vPye9HierWq5UP7XLFzP1C64tr9CgJj6D8=
+
+Name: resources/images/explosion/.cvsignore
+SHA-256-Digest: XuSRMQgwDF6Z6/d1UNQJatZtnyEVJpsUw9GVoNvehtc=
+
+Name: resources/images/explosion/explosion1-4.png
+SHA-256-Digest: xMEIKV7yh/Rx8L8baOq47na5HS8L3XWN/d6zMdU+3qI=
+
+Name: robocode/peer/TextPeer.class
+SHA-256-Digest: w3mb1Kxj55eGLleKqZtkCURA3fHfrGZG51wfICD7pe4=
+
+Name: robocode/DynamicTree$MyTreeModelListener.class
+SHA-256-Digest: Fqc9sQ7gTG8uyE2OJCo0Ue6etp4RkcWUU5qyoIlwohk=
+
+Name: robocode/render/RenderImage.class
+SHA-256-Digest: kiw+/ArsFeMRBpTrrprZXs0DONqnUfaKHedopelECZo=
+
+Name: robocode/dialog/PreferencesRenderingOptionsTab.class
+SHA-256-Digest: MNWuuMo4X+NYR+6rrRvP2CKj4vloGTxLYku1nP/g0QE=
+
+Name: robocode/battle/Battle.class
+SHA-256-Digest: HVmJbowXt5jSbjn1sdj53m6J4mzOhGcv9OGWswyOn0M=
+
+Name: resources/images/explosion/explosion2-1.png
+SHA-256-Digest: PuUkxhyln6i1hJcaB1igUz1nf7dtZblwnkqrPRH8AFg=
+
+Name: robocode/render/ImageUtil$ColorFilter.class
+SHA-256-Digest: HEZyREf2MN9fwU9pdyAx9qTQ9ucPu2YxwI/gFTy8FPs=
+
+Name: robocode/dialog/NewBattleBattleFieldTab$EventHandler.class
+SHA-256-Digest: ymmOmQj+FyFeyZ/2DxQnvGlWj1Wtxuhm+j8KFm5Xs/s=
+
+Name: robocode/dialog/WizardCardPanel.class
+SHA-256-Digest: 0W6OqgIER0p2+ITeMMt1aKCPkLb9egN5sgkXUauB7Ak=
+
+Name: robocode/dialog/ConsoleScrollPane.class
+SHA-256-Digest: JaK6N1rV4yrk3zdamF/bioU+eHga79r2xETCpQqFvJs=
+
+Name: robocode/editor/RobocodeEditor.class
+SHA-256-Digest: jYPB342aJuam1ag20Tmzyduiuw47UR2o1Ze+WUxmNxA=
+
+Name: robocode/dialog/RankingDialog.class
+SHA-256-Digest: M3/9QnD7SFZVWrZTfPnmW/V+eUeg/rv6gMYTfbBwp2E=
+
+Name: robots/sampleteam/MyFirstDroid.class
+SHA-256-Digest: xQ00S9H3qUXrHXLZIHnpzSs6j2tRV0XABrr8Sh9qG9k=
+
+Name: resources/images/explosion/explosion1-11.png
+SHA-256-Digest: PztWthWokMiarrFkxZxcTGW6DsVG5SSWbIUAGhYSbh4=
+
+Name: robocode/dialog/RobotExtractor$EventHandler.class
+SHA-256-Digest: P/hx/J9xZDjKZpMvikvQbHUBDXVmiYKt4Rwm11oqsdQ=
+
+Name: robocode/dialog/RankingDialog$EventHandler.class
+SHA-256-Digest: O3aUQHOlULJy/OCvEJW38XqYDnC5+8PzdwVEqF8H104=
+
+Name: robocode/Condition.class
+SHA-256-Digest: 2Y1dT2Vi2KZGK6idTpL9ZakVNvof3tNVNYFpaY9n2Jc=
+
+Name: robocode/dialog/RobocodeFrame$2.class
+SHA-256-Digest: B35B31oq9kCFWXQbzCEsrW54bkYCD3s7pSFWm1OElC4=
+
+Name: robocode/io/NoDuplicateJarOutputStream.class
+SHA-256-Digest: ggdLUMjsOeFZSmG+2u6porzr5Xh0zlix1+iydu2vhVY=
+
+Name: resources/images/explosion/explosion2-62.png
+SHA-256-Digest: 5hb4LD01fv2qnKiZ4yDw4yoAE4cxpxqXy/AM7dU2rwY=
+
+Name: resources/images/turret.png
+SHA-256-Digest: H9DX2zYo9JcJ8V7jsZf49y9wp3BkPSEc8x5+zqa6TYs=
+
+Name: robocode/editor/FindReplaceDialog.class
+SHA-256-Digest: F43179qlWrVlWITXQljdY7cm4G8yDOhs3f//GuARWa8=
+
+Name: robocode/dialog/AboutBox$1.class
+SHA-256-Digest: 22rKRev5ILJmXMvkS5S2YzrQYRmSkrke/ga/C/sdpFU=
+
+Name: robocode/dialog/AvailableRobotsPanel$RobotNameCellRenderer.class
+SHA-256-Digest: x27uCGKktnR29xiibqwnOii0/GLFv1wqdo8Nc3gdk+c=
+
+Name: robocode/dialog/AvailableRobotsPanel$AvailablePackagesModel.clas
+ s
+SHA-256-Digest: Vbv8jtAQvYxUAlP2rRKjLZkn20NsS+Wxd6YZZGPBI28=
+
+Name: robocode/io/BufferedPipedOutputStream.class
+SHA-256-Digest: vpmTLW5LdqEnPKdfXd7kpbSbnN+rc2VakCIil6yyWfQ=
+
+Name: robocode/dialog/PreferencesViewOptionsTab$1.class
+SHA-256-Digest: HRDLzdw1UkGodfASXvUwQbd9nWtBwzBPNpdnyUmsikM=
+
+Name: robocode/exception/DisabledException.class
+SHA-256-Digest: H10dUYhXt4Smxhf4XglQKqkPeVX59ioAz+dVeHfsCMk=
+
+Name: robocode/Robot.class
+SHA-256-Digest: FHhLGW4vwsgI4mFaOrelQGelZmZYcOr10/ZJlNkJLi8=
+
+Name: resources/images/explosion/explosion2-46.png
+SHA-256-Digest: soH/TL4rpuVX3+2r5odbVR99o+xxhtb8qpaDb3rtAVM=
+
+Name: robocode/dialog/PreferencesRenderingOptionsTab$EventHandler.clas
+ s
+SHA-256-Digest: DB07aHCz7FqjrI3sdaJn6oavLVMKb6jHefNveosDydE=
+
+Name: robocode/dialog/WizardPanel.class
+SHA-256-Digest: kxAOojG+lF9/GKr9yEIEmvfbNzMII4eYYWgIOysa+aE=
+
+Name: robocode/sound/SoundCache$SoundData.class
+SHA-256-Digest: L2pDni4hJyz5NaMV9feD93it55VqCe7ezxeOLAgINBM=
+
+Name: robocode/battle/BattleRankingTableModel.class
+SHA-256-Digest: aIQY3Hu1WfA2DyooZrigTj/qQzxUu9+541GqFaZCQmQ=
+
+Name: robocode/manager/WindowManager$1.class
+SHA-256-Digest: 4kLzGog7vJ0VcGQYlM86j33nlZ/jGAPeWU7cebdJ0iw=
+
+Name: robocode/dialog/Wizard.class
+SHA-256-Digest: wrUOqjbwpb6ISMog3a2l+C9OCcPePdmtJwt4dhv4TSA=
+
+Name: robocode/dialog/TeamCreatorOptionsPanel$EventHandler.class
+SHA-256-Digest: OGUc3VZkAOaeGF/dlkjOuS8F5Oxe9Kkuyoxr6zqtwbs=
+
+Name: resources/images/explosion/explosion2-41.png
+SHA-256-Digest: B0rgbrjZzlkPJH0FyF/sTr74eSzsv+/tNVxMymfmw30=
+
+Name: robocode/MessageEvent.class
+SHA-256-Digest: on6McaEur8bJoC0PVM1ePo6+J2N2eeXGIiplB7d7qRg=
+
+Name: resources/images/explosion/explosion1-8.png
+SHA-256-Digest: JOTM1WQzP0v/UvL10wXBeBNVESQjPM96wL0U9V/QTyU=
+
+Name: resources/images/explosion/explosion2-24.png
+SHA-256-Digest: UOWsXxi9aGpxrttulaycyw+6ZaidibMqzh6GnyT2iLc=
+
+Name: resources/images/explosion/explosion2-42.png
+SHA-256-Digest: 6zo6ycrJQmC0KcwAh/J9xzuzMXkwH+pV3XjIs4PbyZ4=
+
+Name: robocode/dialog/PreferencesViewOptionsTab$EventHandler.class
+SHA-256-Digest: 6goLJMiSPxK90073UynGyBcJBc4elfrVtezE2RzMWyM=
+
+Name: robots/sample/Fire.class
+SHA-256-Digest: tz8aDBwgCZqK2tRCXgG0P89+ZLaJO7bxMioFrGfUukM=
+
+Name: resources/images/explosion/explosion2-55.png
+SHA-256-Digest: SLbBrMoF9kKkm3lVN0VTWAO7SbLzTojesXJOYqO7OT0=
+
+Name: resources/images/explosion/explosion2-15.png
+SHA-256-Digest: s26Wv1YAmMAhExq/3ourlmpljZr1oWnrSXuAKJRLCNE=
+
+Name: robocode/packager/RobotPackager.class
+SHA-256-Digest: mt/WWWOO5uvd5jpHQU+FFq+JSOicomPJdClW/mB4OzY=
+
+Name: robocode/io/FileUtil.class
+SHA-256-Digest: bW/BYjcxjt/dILFvIo/du66cGxZOwns9A+tvyq9asHo=
+
+Name: resources/images/explosion/explosion2-8.png
+SHA-256-Digest: VRmJHFndCWPH7yj3B4aTznrEANnwU2T+nGKp/1pCzP8=
+
+Name: robocode/manager/WindowManager$3.class
+SHA-256-Digest: DpXx36OowiqqWP7UDCo8WVLcBI4jcLHrwWieDeyjheg=
+
+Name: resources/images/explosion/explosion1-6.png
+SHA-256-Digest: EwBR5guh94uLSBzYdFxlsJY/2rSHvF4kCQBsYK3j8RQ=
+
+Name: robots/sample/SittingDuck.class
+SHA-256-Digest: MniLZ5UPwjpTuYJ+mtnRatwUQrDQcMBs30JBVKH42sw=
+
