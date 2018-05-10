@@ -1,0 +1,130 @@
+<?xml version="1.0"?> 
+<!--
+-->
+
+<project xmlns:ivy="antlib:fr.jayasoft.ivy.ant" name="utd-robocode-web" default="compile" basedir=".">
+    
+    <description>Robocode Web Project</description>
+    
+    <property file="build.properties" />
+    
+    <path id="roboweb.class.path">
+        <fileset dir="${roboweb.project.lib}" includes="**/*.jar"/>
+    </path>
+    
+    <path id="roboweb.class.path.run">    
+    <pathelement location="${roboweb.project.dist}/${roboweb.web.jarName}"/>
+    <fileset dir="${roboweb.project.dist}" includes="**/*.jar"/>
+    <path refid="roboweb.class.path" />
+    </path>
+    
+    <path id="roboweb.class.path.test">        
+    <pathelement location="${roboweb.project.build}/tests.jar" />    
+    <path refid="roboweb.class.path.run" />
+    </path>
+    
+    <target name="libs" description="resolve JAR dependencies">
+        <ivy:retrieve />
+    </target>
+    
+    <target name="init">  
+        <mkdir dir="${roboweb.project.build}/classes"/>
+        <mkdir dir="${roboweb.project.build}/test"/>
+        <mkdir dir="${roboweb.project.javadocs}"/>
+        <mkdir dir="${roboweb.project.dist}"/>
+        <mkdir dir="${roboweb.project.dist}/local"/>
+    </target>
+    
+    <target name="clean" 
+            description="remove the compiled Java classes and JARs">  
+        <delete dir="${roboweb.project.build}"/>
+        <delete dir="${roboweb.project.javadocs}"/>
+        <delete dir="${roboweb.project.dist}"/>
+    </target>
+    
+    <target name="compile" depends="init" description="build the project library JAR"> 
+        <javac srcdir="${roboweb.project.src}" destdir="${roboweb.project.build}/classes" 
+               classpathref="roboweb.class.path" debug="${roboweb.project.debug}" debuglevel="source,lines,vars" >
+            <compilerarg value="-Xlint:unchecked"/>
+        </javac>
+		<copy todir="${roboweb.project.build}/classes">
+			<fileset dir="${roboweb.project.src}">
+				<include name="**/*.*" />
+				<exclude name="**/*.java" />
+			</fileset>
+		</copy>
+        <jar destfile="${roboweb.project.dist}/${roboweb.web.jarName}">
+			<manifest>
+				<attribute name="Main-Class" value="edu.utd.roboweb.MainTBD" />	
+			</manifest>
+            <fileset dir="${roboweb.project.build}/classes">
+				<include name="**"/>
+			</fileset>
+        </jar>
+    </target>
+
+    <target name="compile-test" depends="compile">
+        <javac classpathref="roboweb.class.path.test"
+               srcdir="${roboweb.project.test}" destdir="${roboweb.project.build}/test"
+               debug="true" debuglevel="source"/>
+        <jar basedir="${roboweb.project.build}/test" destfile="${roboweb.project.build}/tests.jar" includes="**/*"/>
+    </target>
+    
+    <target name="test" depends="init,compile-test" 
+            description="build the project unit and integration tests">
+        <junit >
+            <formatter type="plain" usefile="false"/>
+            <classpath refid="roboweb.class.path.test"/>            
+            <batchtest>
+                <fileset dir="${roboweb.project.test}" includes="*/**"/>
+            </batchtest>
+        </junit>
+    </target>
+    
+    <target name="docs" depends="init" description="generate project documentation">
+        <javadoc packagenames="src"  sourcepath="${roboweb.project.src}"
+                 destdir="${roboweb.project.javadocs}" classpathref="roboweb.class.path.run">
+				 <packageset dir="${roboweb.project.src}" defaultexcludes="yes">
+				 	<include name="**" />
+				</packageset>
+		</javadoc>
+	</target>
+
+	<target name="war-param" depends="compile">
+		<echo message="building war file for ${param}" />
+		<war destfile="${roboweb.project.dist}/${param}/roboweb.war" webxml="${roboweb.project.web}/${param}/WEB-INF/web.xml">
+			<lib dir="${roboweb.project.lib}">
+				<include name="*.jar" />
+				<exclude name="servlet*.jar" />
+				<exclude name="mysql-connector-java-*-bin.jar" />
+			</lib>
+			<lib dir="${roboweb.project.dist}">
+				<include name="${roboweb.web.jarName}" />
+			</lib>
+			<fileset dir="${roboweb.project.web}/common">
+				<include name="**/*" />
+				<exclude name="**/web.xml" />
+			</fileset>
+			<fileset dir="${roboweb.project.web}/${param}">
+				<include name="**/*" />
+				<exclude name="**/web.xml" />
+			</fileset>
+		</war>
+	</target>
+
+	<target name="war-local" depends="compile">
+		<antcall target="war-param">
+			<param name="param" value="local" />
+		</antcall>
+	</target>
+
+	<target name="deploy" depends="war-local">
+		<echo>Deploying war to local tomcat folder: ${apache.tomcat.home}/webapps</echo>
+		<echo>Don't forget to start tomcat ./${apache.tomcat.home}/bin/startup.sh or startup.bat</echo>
+		<echo>Then point your favorite web browser to http://localhost:8080/roboweb/</echo>
+		<copy todir="${apache.tomcat.home}/webapps">
+			<fileset dir="${roboweb.project.dist}/local" includes="roboweb.war" />
+		</copy>
+	</target>
+
+</project>
